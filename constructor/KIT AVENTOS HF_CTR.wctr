@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Kit Aventos HF' offsetBack='0.0' offsetBottom='0.0' offsetFront='0.0' offsetLeft='0.0' offsetRight='0.0' offsetTop='0.0'>
+	<VerticalAlignment options='all' value='all'/>
+	<HorizontalAlignment options='all' value='all'/>
+	<DepthAlignment options='all' value='all'/>
+	<FieldSets>
+		<FieldSet FieldName='recobrimentoesquerdo' options='total;parcial;embutido' title='Recobrimento Esquerdo' value='total'/>
+		<FieldSet FieldName='recobrimentodireito' options='total;parcial;embutido' title='Recobrimento Direito' value='total'/>
+		<FieldSet FieldName='recobrimentosuperior' options='total;parcial;embutido' title='Recobrimento Superior' value='total'/>
+		<FieldSet FieldName='recobrimentoinferior' options='total;parcial;embutido;passante' title='Recobrimento Inferior' value='total'/>
+	</FieldSets>
+</Entity>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Fundo Encaixado' offsetBack='-1000.0' offsetBottom='2.0' offsetFront='0.0' offsetLeft='2.0' offsetRight='2.0' offsetTop='2.0'>
+	<VerticalAlignment options='all' value='all'/>
+	<HorizontalAlignment options='all' value='all'/>
+	<DepthAlignment options='front;middle;back' value='back'/>
+	<FieldSets>
+	</FieldSets>
+</Entity>

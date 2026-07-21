@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Kit Deslizante 2 Portas' offsetBack='0.0' offsetBottom='0.0' offsetFront='0.0' offsetLeft='0.0' offsetRight='0.0' offsetTop='0.0'>
+	<VerticalAlignment options='all' value='all'/>
+	<HorizontalAlignment options='all' value='all'/>
+	<DepthAlignment options='all' value='all'/>
+	<FieldSets>
+		<FieldSet FieldName='PortaFrontal' options='direita;esquerda' title='Porta Frontal' value='esquerda'/>
+		<FieldSet FieldName='wpsusermodelotrilhoportaspequena' options='sobreposto;embutido' title='Tipo de trilho' value='embutido'/>
+	</FieldSets>
+</Entity>

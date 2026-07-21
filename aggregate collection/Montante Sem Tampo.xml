@@ -1,0 +1,75 @@
+<OptionalChildren>
+  <Category name='Gaveta'>
+    <Child title='Gaveta' file='\\Biblioteca Design Duarte\\library\\Agregados\\Gavetas\\Kit Gaveta Dormitorio.lib'>
+      <Properties>
+        <_x_formula>
+           if(Parent!VistaFechamento=0, Parent!LarguraVista+EspessuraCorpo,
+          if(Parent!VistaFechamento=2, Parent!LarguraVista+EspessuraCorpo,
+          EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>
+          
+          If(Parent!ModeloFrente=0,-Parent!LenY+Parent!RecuoFrontal+2.2+Parent!DescontoFrentePuxador, -Parent!LenY+Parent!RecuoFrontal+Parent!RecuoFrente+Parent!DescontoFrentePuxador) 
+        </_y_formula>
+        <z>Parent!LenZ-2*Parent!EspessuraCorpo-LenZ-FolgaSuperior</z>
+        <_lenx_formula>
+           if(Parent!VistaFechamento=3, Parent!LenX-2*EspessuraCorpo,
+          if(Parent!VistaFechamento=2,
+          Parent!LenX-2*Parent!LarguraVista-2*EspessuraCorpo,
+          Parent!LenX-Parent!LarguraVista-2*EspessuraCorpo)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!ProfundidadeGavetas-DescontoProfundidadeGaveta</_leny_formula>
+        <_lenz_formula>15</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_lenz_access>"TEXTBOX"</_lenz_access>
+        <_lenz_formlabel>"Altura:"</_lenz_formlabel>
+        <_lenz_formulaunits>"STRING"</_lenz_formulaunits>
+        <_lenz_label>"LenZ"</_lenz_label>
+        <_lenz_units>"MILLIMETERS"</_lenz_units>
+        <folgainferior>0.3</folgainferior>
+        <folgasuperior>0.3</folgasuperior>
+        <folgaesquerda>"0.2"</folgaesquerda>
+        <folgadireita>"0.2"</folgadireita>
+        <folgaentre>0.3</folgaentre>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuragaveta_formula>EspessuraCorpo</_espessuragaveta_formula>
+        <_modelofrente_formula>Parent!ModeloFrente</_modelofrente_formula>
+      </Properties>
+    </Child>
+  </Category>
+  <Category name='Sapateira'>
+    <Child title='Sapateira' file='\\Biblioteca Design Duarte\\library\\Agregados\\Sapateiras\\Dormitorio\\Kit Sapateira Dormitorio.lib'>
+      <Properties>
+        <_x_formula>
+           if(Parent!VistaFechamento=0, Parent!LarguraVista+EspessuraCorpo,
+          if(Parent!VistaFechamento=2, Parent!LarguraVista+EspessuraCorpo,
+          EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>
+          
+          If(Parent!ModeloFrente=0,-Parent!LenY+Parent!RecuoFrontal+2.2+Parent!DescontoFrentePuxador, -Parent!LenY+Parent!RecuoFrontal+Parent!RecuoFrente+Parent!DescontoFrentePuxador) 
+        </_y_formula>
+        <z>EspessuraCorpo+FolgaInferior</z>
+        <_lenx_formula>
+           if(Parent!VistaFechamento=3, Parent!LenX-2*EspessuraCorpo,
+          if(Parent!VistaFechamento=2,
+          Parent!LenX-2*Parent!LarguraVista-2*EspessuraCorpo,
+          Parent!LenX-Parent!LarguraVista-2*EspessuraCorpo)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!ProfundidadeGavetas</_leny_formula>
+        <_lenz_formula>7</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <folgainferior>0.3</folgainferior>
+        <folgasuperior>0.3</folgasuperior>
+        <folgaesquerda>"0.2"</folgaesquerda>
+        <folgadireita>"0.2"</folgadireita>
+        <folgaentre>0.3</folgaentre>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+      </Properties>
+    </Child>
+  </Category>
+</OptionalChildren>

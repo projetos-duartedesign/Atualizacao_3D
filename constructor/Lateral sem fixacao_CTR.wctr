@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Lateral sem Fixacao' offsetBack='2.0' offsetBottom='591.5' offsetFront='0.0' offsetLeft='0.0' offsetRight='0.0' offsetTop='0.0'>
+	<VerticalAlignment options='all' value='all'/>
+	<HorizontalAlignment options='left;right;middle' value='right'/>
+	<DepthAlignment options='all' value='all'/>
+	<FieldSets>	
+			<FieldSet FieldName='wpsusername' options='' title='Nome' value='Batente'/>			
+	</FieldSets>	
+</Entity>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LibInfo xmlns:xsd='http://www.w3.org/2001/XMLSchema' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <id>181</id>
+  <name>Biblioteca</name>
+  <companyId>1351</companyId>
+  <compilationDate>2026-05-26T08:00:00</compilationDate>
+  <updateDate>2026-06-01T14:13:48</updateDate>
+  <main>true</main>
+</LibInfo>

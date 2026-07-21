@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BudgetConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Method>LOCAL</Method>
+  <!--<Method>API</Method>-->
+  <ApiPath></ApiPath>
+  <ApiCompanyId>1</ApiCompanyId>
+  <ApiMarkup>30</ApiMarkup>
+  <PriceTableManagerApiPath></PriceTableManagerApiPath>
+  <UpdatePriceTable>false</UpdatePriceTable>
+  <CompanyCNPJ></CompanyCNPJ>
+</BudgetConfig>

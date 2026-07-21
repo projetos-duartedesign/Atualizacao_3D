@@ -1,0 +1,161 @@
+<OptionalChildren>
+  <Category name='Sistemas deslizantes'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 2 portas JR6.lib' title='Conjunto 2 portas JR6'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>-Parent!LenY</_y_formula>
+        <_z_formula>Parent!AlturaRodape</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>7.9</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaRodape-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 3 portas JR6.lib' title='Conjunto 3 portas JR6'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>-Parent!LenY</_y_formula>
+        <_z_formula>Parent!AlturaRodape</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>7.9</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaRodape-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 4 portas JR6.lib' title='Conjunto 4 portas JR6'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>-Parent!LenY</_y_formula>
+        <_z_formula>Parent!AlturaRodape</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>7.9</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaRodape-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Cj diversas portas JR6.lib' title='Conjunto diversas portas JR6'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>-Parent!LenY</_y_formula>
+        <_z_formula>Parent!AlturaRodape</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>7.9</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaRodape-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+  </Category>
+  <Category name='Corpos Simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\2 corpos simples.lib' title='2 corpos simples'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>0</_y_formula>
+        <_z_formula>Niveladores</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!LenY-Parent!RecuoPorta-Parent!RecuoSistemaDes</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\3 corpos simples.lib' title='3 corpos simples'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>0</_y_formula>
+        <_z_formula>Niveladores</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!LenY-Parent!RecuoPorta-Parent!RecuoSistemaDes</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\4 corpos simples.lib' title='4 corpos simples'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>0</_y_formula>
+        <_z_formula>Niveladores</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!LenY-Parent!RecuoPorta-Parent!RecuoSistemaDes</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\5 corpos simples.lib' title='5 corpos simples'>
+      <Properties>
+        <_x_formula>
+          
+          if(Parent!LateralAparente=0,Parent!EspessuraCorpo,if(Parent!LateralAparente=2,Parent!EspessuraCorpo,Parent!LarguraVista+Parent!EspessuraCorpo)) 
+        </_x_formula>
+        <_y_formula>0</_y_formula>
+        <_z_formula>Niveladores</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!LateralAparente=0,Parent!LenX-2*Parent!EspessuraCorpo,if(Parent!LateralAparente=1,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista*2,(Parent!LenX-2*Parent!EspessuraCorpo)-Parent!LarguraVista)) 
+        </_lenx_formula>
+        <_leny_formula>Parent!LenY-Parent!RecuoPorta-Parent!RecuoSistemaDes</_leny_formula>
+        <_lenz_formula>Parent!LenZ-Parent!AlturaSanca</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+  </Category>
+</OptionalChildren>

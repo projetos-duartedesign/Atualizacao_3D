@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Kit Led Linear' offsetBack='30.0' offsetBottom='0.0' offsetFront='50.0' offsetLeft='0.0' offsetRight='0.0' offsetTop='0.0'>
+	<VerticalAlignment options='top;bottom' value='bottom'/>
+	<HorizontalAlignment options='all' value='all'/>
+	<DepthAlignment options='front;back;middle' value='front'/>
+		<FieldSets>
+			<FieldSet FieldName='wpsusername' options='' title='Nome' value='Kit Led Linear'/>	
+			<FieldSet FieldName='posicaoled' options='baixo;cima' title='Posição do Led' value='baixo'/>				
+		</FieldSets>
+</Entity>

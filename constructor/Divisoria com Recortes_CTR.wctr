@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Entity name='Divisoria com Recortes' offsetBack='0.0' offsetBottom='0.0' offsetFront='0.0' offsetLeft='0.0' offsetRight='0.0' offsetTop='0.0'>
+	<VerticalAlignment options='All' value='all'/>
+	<HorizontalAlignment options='left;right;middle' value='middle'/>
+	<DepthAlignment options='all' value='all'/>
+	<FieldSets>
+		<FieldSet FieldName='recorteinferiorfrontal' options='Sim;Nao' title='Recorte Inferior Frontal' value='Sim'/>
+		<FieldSet FieldName='alturarecorteinffron' options='' title='Altura Recorte Inferior Frontal (cm)' value='2'/>
+		<FieldSet FieldName='largurarecorteinffron' options='' title='Largura Recorte Inferior Frontal (cm)' value='5'/>
+		<FieldSet FieldName='recorteinferiortraseiro' options='Sim;Nao' title='Recorte Inferior Traseiro' value='Sim'/>
+		<FieldSet FieldName='alturarecorteinftra' options='' title='Altura Recorte Inferior Traseiro (cm)' value='3'/>
+		<FieldSet FieldName='largurarecorteinftra' options='' title='Largura Recorte Inferior Traseiro (cm)' value='7'/>
+		<FieldSet FieldName='recortesuperiorfrontal' options='Sim;Nao' title='Recorte Superior Frontal' value='Sim'/>
+		<FieldSet FieldName='alturarecortesupfron' options='' title='Altura Recorte Superior Frontal (cm)' value='3'/>
+		<FieldSet FieldName='largurarecortesupfron' options='' title='Largura Recorte Superior Frontal (cm)' value='8'/>
+		<FieldSet FieldName='recortesuperiortraseiro' options='Sim;Nao' title='Recorte Superior Traseiro' value='Sim'/>
+		<FieldSet FieldName='alturarecortesuptra' options='' title='Altura Recorte Superior Traseiro (cm)' value='1'/>
+		<FieldSet FieldName='largurarecortesuptra' options='' title='Largura Recorte Superior Traseiro (cm)' value='4'/>
+	</FieldSets>
+</Entity>

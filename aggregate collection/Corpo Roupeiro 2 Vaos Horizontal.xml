@@ -1,0 +1,425 @@
+<OptionalChildren>
+  <Category name='Agregados'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Cabideiros\\Conjunto Cabideiro Oblongo.lib' title='Cabideiro Oblongo'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,-(Parent!LenY+Parent!EspessuraCorpo+0.6)/2,-Parent!LenY/2) 
+        </_y_formula>
+        <_z_formula>Parent!AlturaMaleiro+Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>2.01</_leny_formula>
+        <_lenz_formula>7.63</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Prateleiras\\Kit Prateleira Interna Vidro.lib' title='Kit Prateleira Interna Vidro'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-RecuoPrateleira-Parent!EspessuraCorpo-0.6,Parent!LenY-RecuoPrateleira) 
+        </_leny_formula>
+        <_lenz_formula>Parent!AlturaMaleiro</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_recuoprateleira_formula>Parent!RecuoAgregados</_recuoprateleira_formula>
+        <_wpsrepeatvalue_access>&quot;TEXTBOX&quot;</_wpsrepeatvalue_access>
+        <_wpsrepeatvalue_formlabel>Quantidade:</_wpsrepeatvalue_formlabel>
+        <_wpsrepeatvalue_formulaunits>&quot;STRING&quot;</_wpsrepeatvalue_formulaunits>
+        <_wpsrepeatvalue_label>&quot;Quantidade:&quot;</_wpsrepeatvalue_label>
+        <_wpsrepeatvalue_units>&quot;STRING&quot;</_wpsrepeatvalue_units>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Prateleiras\\Kit Prateleira Interna MDF.lib' title='Kit Prateleira Interna MDF'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-RecuoPrateleira-Parent!EspessuraCorpo-0.6,Parent!LenY-RecuoPrateleira) 
+        </_leny_formula>
+        <_lenz_formula>Parent!AlturaMaleiro</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuraprateleira_formula>Parent!EspessuraCorpo</_espessuraprateleira_formula>
+        <_recuoprateleira_formula>Parent!RecuoAgregados</_recuoprateleira_formula>
+        <_wpsrepeatvalue_access>&quot;TEXTBOX&quot;</_wpsrepeatvalue_access>
+        <_wpsrepeatvalue_formlabel>Quantidade:</_wpsrepeatvalue_formlabel>
+        <_wpsrepeatvalue_formulaunits>&quot;STRING&quot;</_wpsrepeatvalue_formulaunits>
+        <_wpsrepeatvalue_label>&quot;Quantidade:&quot;</_wpsrepeatvalue_label>
+        <_wpsrepeatvalue_units>&quot;STRING&quot;</_wpsrepeatvalue_units>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Colmeias\\Colmeia Interna.lib' title='Colmeia Interna'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!AlturaMaleiro</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuradivisoria_formula>Parent!EspessuraCorpo</_espessuradivisoria_formula>
+        <_espessuraprateleira_formula>Parent!EspessuraCorpo</_espessuraprateleira_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Calceiros\\Calceiro Tubo Aluminio 12 mm.lib' title='Calceiro Tubo Aluminio 12 mm'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!VaoInferior+Parent!EspessuraCorpo-AlturaCalceiro-0.3</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>AlturaCalceiro</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Montantes\\Montante Com Tampo.lib' title='Montante'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Kit Gavetas Com Tampo.lib' title='Kit Gavetas'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Cabideiro Com Tampo.lib' title='Kit Gavetas e Cabideiro'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Cabideiro Com Tampo Parcial.lib' title='Kit Gavetas e Cabideiro Aberto'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Prateleira Com Tampo.lib' title='Kit Gavetas e Prateleira'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Prateleira Com Tampo Parcial.lib' title='Kit Gavetas e Prateleira Aberta'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Calceiro Com Tampo.lib' title='Kit Gavetas Com Tampo Livre'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!vaoInferior</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Cabideiro e Gaveteiro Parcial Com Tampo.lib' title='Kit Gavetas Parcial e Cabideiro'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo.lib' title='Kit Sapateiras'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Sapateira c tampo superior e gavetas.lib' title='Sapateira s tampo superior e com gavetas'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-1 
+        </_leny_formula>
+        <_lenz_formula>Parent!vaoInferior</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+      </Properties>
+    </Child>
+  </Category>
+  <Category name='Agregados Livres'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Prateleiras\\Prateleira Interna Vidro.lib' title='Prateleira Interna Vidro'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <z>(Parent!AlturaMaleiro+Parent!EspessuraCorpo*2-EspessuraVidro)/2</z>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-RecuoPrateleira-Parent!EspessuraCorpo-0.6,Parent!LenY-RecuoPrateleira) 
+        </_leny_formula>
+        <_lenz_formula>EspessuraVidro</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuravidro_formula>1</_espessuravidro_formula>
+        <_recuoprateleira_formula>Parent!RecuoAgregados</_recuoprateleira_formula>
+        <_espessuravidro_access>&quot;LIST&quot;</_espessuravidro_access>
+        <_espessuravidro_formlabel>&quot;EspessuraVidro:&quot;</_espessuravidro_formlabel>
+        <_espessuravidro_formulaunits>&quot;CENTIMETERS&quot;</_espessuravidro_formulaunits>
+        <_espessuravidro_label>&quot;EspessuraVidro&quot;</_espessuravidro_label>
+        <_espessuravidro_options>
+          
+          &quot;&amp;6mm=0.23622047244094488&amp;8mm=0.31496062992125984&amp;10mm=0.39370078740157477&amp;12mm=0.47244094488188975&amp;15mm=0.5905511811023621&amp;20mm=0.7874015748031495&amp;&quot; 
+        </_espessuravidro_options>
+        <_espessuravidro_units>STRING</_espessuravidro_units>
+        <_recuoprateleira_access>&quot;LIST&quot;</_recuoprateleira_access>
+        <_recuoprateleira_formlabel>&quot;RecuoPrateleira:&quot;</_recuoprateleira_formlabel>
+        <_recuoprateleira_formulaunits>&quot;STRING&quot;</_recuoprateleira_formulaunits>
+        <_recuoprateleira_label>&quot;RecuoPrateleira&quot;</_recuoprateleira_label>
+        <_recuoprateleira_options>&quot;&amp;Paramétrico==Parent!RecuoAgregados&amp;Livre=7&amp;&quot;</_recuoprateleira_options>
+        <_recuoprateleira_units>&quot;STRING&quot;</_recuoprateleira_units>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Prateleiras\\Prateleira Interna MDF.lib' title='Prateleira Interna MDF'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <z>(Parent!AlturaMaleiro+Parent!EspessuraCorpo*2-EspessuraPrateleira)/2</z>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-RecuoPrateleira-Parent!EspessuraCorpo-0.6,Parent!LenY-RecuoPrateleira) 
+        </_leny_formula>
+        <_lenz_formula>EspessuraPrateleira</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuraprateleira_formula>Parent!EspessuraCorpo</_espessuraprateleira_formula>
+        <_recuoprateleira_formula>Parent!RecuoAgregados</_recuoprateleira_formula>
+        <_espessuraprateleira_access>&quot;LIST&quot;</_espessuraprateleira_access>
+        <_espessuraprateleira_formlabel>&quot;EspessuraPrateleira:&quot;</_espessuraprateleira_formlabel>
+        <_espessuraprateleira_formulaunits>&quot;CENTIMETERS&quot;</_espessuraprateleira_formulaunits>
+        <_espessuraprateleira_label>&quot;EspessuraPrateleira&quot;</_espessuraprateleira_label>
+        <_espessuraprateleira_options>
+          
+          &quot;&amp;15.5mm=0.610236220472441&amp;18.5mm=0.7283464566929134&amp;25.5mm=1.0039370078740157&amp;&quot; 
+        </_espessuraprateleira_options>
+        <_espessuraprateleira_units>STRING</_espessuraprateleira_units>
+        <_recuoprateleira_access>&quot;LIST&quot;</_recuoprateleira_access>
+        <_recuoprateleira_formlabel>&quot;RecuoPrateleira:&quot;</_recuoprateleira_formlabel>
+        <_recuoprateleira_formulaunits>&quot;STRING&quot;</_recuoprateleira_formulaunits>
+        <_recuoprateleira_label>&quot;RecuoPrateleira&quot;</_recuoprateleira_label>
+        <_recuoprateleira_options>&quot;&amp;Paramétrico==Parent!RecuoAgregados&amp;Livre=7&amp;&quot;</_recuoprateleira_options>
+        <_recuoprateleira_units>&quot;STRING&quot;</_recuoprateleira_units>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Cabideiros\\Conjunto Cabideiro Oblongo.lib' title='Cabideiro Oblongo'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,-(Parent!LenY+Parent!EspessuraCorpo+0.6)/2,-Parent!LenY/2) 
+        </_y_formula>
+        <z>(Parent!AlturaMaleiro+Parent!EspessuraCorpo+7.63)/2</z>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>2.01</_leny_formula>
+        <_lenz_formula>7.63</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+  </Category>
+</OptionalChildren>
