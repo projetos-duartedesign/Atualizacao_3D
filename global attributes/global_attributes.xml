@@ -307,7 +307,7 @@
     <Attribute subcategory='Fundos Gavetas' title='Entrada fundo gaveta' name='wpsgentradafundogaveta' value='10' image='wpsgentradafundogaveta.png'/>
     <Attribute subcategory='Fundos Gavetas' title='Folga entrada fundo gaveta' name='wpsgfolgaentradafundogaveta' value='0.5' image='wpsgfolgaentradafundogaveta.png'/>
     <!--TAMBURATO-->
-    <Attribute subcategory='Peças Tamburato' title='Habilitar engrosso tamburato para corte (0-Sim | 1-Não)' name='wpsghabilitaengrossotamburato' option='0;1' value='0' image='wpsghabilitaengrossotamburato.png'/>
+    <Attribute subcategory='Peças Tamburato' title='Habilitar engrosso tamburato para corte (0-Sim | 1-Não)' name='wpsghabilitaengrossotamburato' option='0;1' value='1' image='wpsghabilitaengrossotamburato.png'/>
     <Attribute subcategory='Peças Tamburato' title='Quantidade de Engrossos Tamburtato' name='wpsgtamburatoquantidadeengrossos' value='1' image='wpsgtamburatoquantidadeengrossos.png'/>
     <Attribute subcategory='Peças Tamburato' title='(0-Considerar refilo | 1-Considerar desconto borda)' name='wpsgconsiderarrefilotamburato' option='0;1' value='0' image='wpsgconsiderarrefilotamburato.png'/>
     <Attribute subcategory='Peças Tamburato' title='Medida extra para refilo Peças Tamburato' name='wpsgrefilotamburato' value='10' image='wpsgrefilotamburato.png'/>
