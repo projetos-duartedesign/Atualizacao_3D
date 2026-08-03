@@ -48,14 +48,14 @@
         <string Enable="true">Biblioteca\\models\\Roup Can L Vao Livre.lib</string>
       </Models>
     </ModelOption>
-	<ModelOption Name="corpos_roupeiros_simples" Title="Corpos Roupeiros Simples">
+    <ModelOption Name="corpos_roupeiros_simples" Title="Corpos Roupeiros Simples" Enable="true">
       <Models>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 1 Vao Horizontal 2 Vaos Vertical.lib</string>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 1 Vao.lib</string>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 2 Vaos Horizontal Sem Maleiro.lib</string>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 2 Vaos Horizontal.lib</string>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 3 Vaos Horizontal com Divisao.lib</string>
-        <string>Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 3 Vaos Horizontal.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 1 Vao Horizontal 2 Vaos Vertical.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 1 Vao.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 2 Vaos Horizontal Sem Maleiro.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 2 Vaos Horizontal.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 3 Vaos Horizontal com Divisao.lib</string>
+        <string Enable="true">Biblioteca\\Componentes\\Montados\\Corpos\\Dormitorio\\Simples\\Corpo Roupeiro 3 Vaos Horizontal.lib</string>
       </Models>
     </ModelOption>
   </Group>
@@ -109,16 +109,6 @@
         <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Cj.lib</string>
       </Models>
     </ModelOption>
-    <ModelOption Name="dobradicas_canto_reto" Title="Dobradicas Canto Reto" Enable="true">
-      <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Cj Canto Reto.lib</string>
-      </Models>
-    </ModelOption>
     <ModelOption Name="dobradicas_155" Title="Dobradiças 155°" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj 155.lib</string>
@@ -141,6 +131,16 @@
       <Models>
         <string Enable="true">Biblioteca\\models\\Dobradica Amor. 165 Cj Canto L.lib</string>
         <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor.165 Cj Canto L.lib</string>
+      </Models>
+    </ModelOption>
+    <ModelOption Name="dobradicas_canto_reto" Title="Dobradicas Canto Reto" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj Canto Reto.lib</string>
+        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Cj Canto Reto.lib</string>
+        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj Canto Reto.lib</string>
+        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj Canto Reto.lib</string>
+        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj Canto Reto.lib</string>
+        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Cj Canto Reto.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_curva" Title="Dobradicas Curva" Enable="true">
@@ -188,14 +188,7 @@
         <string Enable="true">Biblioteca\\models\\Parafuso 4x40 CJ.lib</string>
       </Models>
     </ModelOption>
-    <ModelOption Name="fixacao_mascara" Title="Fixacao Mascara" Enable="true">
-      <Models>
-        <string Enable="true">Biblioteca\\models\\Cantoneira 13 x 13 2F CJ.lib</string>
-        <string Enable="true">Biblioteca\\models\\Minifix e Cavilha CJ.lib</string>
-        <string Enable="true">Biblioteca\\models\\Rafix CJ.lib</string>
-      </Models>
-    </ModelOption>
-    <ModelOption Name="fixacao_travessa_vertical" Title="Fixacao Travessa Vertical" Enable="true">
+    <ModelOption Name="fixacao_guarnicao" Title="Fixacao Guarnicao" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Cavilha CJ.lib</string>
         <string Enable="true">Biblioteca\\models\\Parafuso 3.5x40 CJ Flangeado.lib</string>
@@ -204,7 +197,14 @@
         <string Enable="true">Biblioteca\\models\\Parafuso 4x40 CJ.lib</string>
       </Models>
     </ModelOption>
-	<ModelOption Name="fixacao_guarnicao" Title="Fixacao Guarnicao" Enable="true">
+    <ModelOption Name="fixacao_mascara" Title="Fixacao Mascara" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Cantoneira 13 x 13 2F CJ.lib</string>
+        <string Enable="true">Biblioteca\\models\\Minifix e Cavilha CJ.lib</string>
+        <string Enable="true">Biblioteca\\models\\Rafix CJ.lib</string>
+      </Models>
+    </ModelOption>
+    <ModelOption Name="fixacao_travessa_vertical" Title="Fixacao Travessa Vertical" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Cavilha CJ.lib</string>
         <string Enable="true">Biblioteca\\models\\Parafuso 3.5x40 CJ Flangeado.lib</string>
@@ -230,6 +230,7 @@
   <Group Name="Frentes e Mascaras" Enable="true">
     <ModelOption Name="frentes" Title="Frentes" Enable="true">
       <Models>
+        <string Enable="true">Biblioteca\\models\\Frente Cava Com Aba Parcial.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Lisa.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Moldura com Recorte.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Moldura Rebaixo.lib</string>
@@ -248,7 +249,7 @@
         <string Enable="true">Biblioteca\\models\\Frente Puxador Slim.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente puxador usinado.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador Zen Sottile.lib</string>
-        <string Enable="true">Biblioteca\\models\\Frente Cava Com Aba Parcial.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Almofada.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="frentes_calceiro" Title="Frentes Calceiro" Enable="true">
@@ -271,7 +272,9 @@
     </ModelOption>
     <ModelOption Name="frentes_dormitorio" Title="Frentes Dormitorio" Enable="true">
       <Models>
+        <string Enable="true">Biblioteca\\models\\Frente Cava Com Aba Parcial.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Lisa.lib</string>
+        <string Enable="true">Biblioteca\\models\\Frente Pux Cava Alum.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador 2009.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador 7015 Perfil 3136.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador 7015 Perfil 3345.lib</string>
@@ -283,8 +286,6 @@
         <string Enable="true">Biblioteca\\models\\Frente Puxador Slice.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador Slim.lib</string>
         <string Enable="true">Biblioteca\\models\\Frente Puxador Zen Sottile.lib</string>
-        <string Enable="true">Biblioteca\\models\\Frente Pux Cava Alum.lib</string>
-        <string Enable="true">Biblioteca\\models\\Frente Cava Com Aba Parcial.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="frentes_fecho_toque" Title="Frentes Fecho Toque" Enable="true">
@@ -317,6 +318,13 @@
     </ModelOption>
   </Group>
   <Group Name="Gavetas" Enable="true">
+    <ModelOption Name="balcao_porta_latas" Title="Balcão Porta Latas" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Porta Latas Oculta B.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Latas Oculta.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Latas Telescopica.lib</string>
+      </Models>
+    </ModelOption>
     <ModelOption Name="gavetas" Title="Gavetas" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Gaveta Alto Drawer.lib</string>
@@ -344,10 +352,10 @@
         <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Oculta B.lib</string>
         <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Oculta.lib</string>
         <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Telescopica.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira Oculta B.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira Oculta.lib</string>        
         <string Enable="true">Biblioteca\\models\\Sapateira com Laterais Oculta B.lib</string>
         <string Enable="true">Biblioteca\\models\\Sapateira com Laterais Oculta.lib</string>
+        <string Enable="true">Biblioteca\\models\\Sapateira Oculta B.lib</string>
+        <string Enable="true">Biblioteca\\models\\Sapateira Oculta.lib</string>
         <string Enable="true">Biblioteca\\models\\Sapateira Telescopica.lib</string>
       </Models>
     </ModelOption>
@@ -355,13 +363,6 @@
       <Models>
         <string Enable="true">Biblioteca\\models\\Tulha Oculta.lib</string>
         <string Enable="true">Biblioteca\\models\\Tulha Telescopica.lib</string>
-      </Models>
-    </ModelOption>
-	<ModelOption Name="balcao_porta_latas" Title="Balcão Porta Latas" Enable="true">
-      <Models>
-        <string Enable="true">Biblioteca\\models\\Porta Latas Oculta B.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Latas Oculta.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Latas Telescopica.lib</string>
       </Models>
     </ModelOption>
   </Group>
@@ -402,13 +403,14 @@
       <Models>
         <string Enable="true">Biblioteca\\models\\Conjunto Porta Provencal.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Almofada.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Alta Puxador Usinado Retangular.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Alta Cava com Aba Parcial.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Moldura de Vidro Perfil PVC.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Moldura de Vidro Recobrido.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Moldura Provencal com Vidro Perfil PVC.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Moldura Provencal de Vidro Recobrido.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Alta Palha.lib</string>
-		<string Enable="true">Biblioteca\\models\\Porta Alta Cava com Aba Parcial.lib</string>        
+        <string Enable="true">Biblioteca\\models\\Porta Alta Puxador Usinado Retangular.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta alta puxador usinado.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta com Espelho.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Lisa.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Moldura com Recorte.lib</string>
@@ -422,11 +424,10 @@
         <string Enable="true">Biblioteca\\models\\Porta Puxador Facetato.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador Gola.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador M14 Alta.lib</string>
-		<string Enable="true">Biblioteca\\models\\Porta alta puxador usinado.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Puxador Montana Cava.lib</string>		
+        <string Enable="true">Biblioteca\\models\\Porta Puxador Montana Cava.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador Slice.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador Slim Alta.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Puxador Zen Sottile Alta.lib</string>        
+        <string Enable="true">Biblioteca\\models\\Porta Puxador Zen Sottile Alta.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_basculantes" Title="Portas Basculantes" Enable="true">
@@ -437,6 +438,7 @@
         <string Enable="true">Biblioteca\\models\\Basculante Puxador 7015 Perfil 3446.lib</string>
         <string Enable="true">Biblioteca\\models\\Conjunto Porta Provencal Basculante.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Almofada.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Basculante Cava com Aba Parcial.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Cava Madeira.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Lisa.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura de Vidro Perfil PVC.lib</string>
@@ -456,7 +458,6 @@
         <string Enable="true">Biblioteca\\models\\Porta Basculante Puxador Slim.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta basculante puxador usinado.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Puxador Zen Sottile.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Basculante Cava com Aba Parcial.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_basculantes_cava" Title="Portas Basculantes Cava" Enable="true">
@@ -468,22 +469,25 @@
     <ModelOption Name="portas_basculantes_fecho_toque" Title="Portas Basculantes Fecho Toque" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Basculante Moldura com Recorte Fecho Toque.lib</string>
+        <string Enable="true">Biblioteca\\models\\Basculante Puxador 7015 Perfil 3345 Superior FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Conjunto Porta Provencal Basculante.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Almofada Fecho Toque.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Lisa Fecho Toque.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura de Vidro Perfil PVC FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura Rebaixo Fecho Toque.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Palha Fecho Toque.lib</string>
-        <string Enable="true">Biblioteca\\models\\Basculante Puxador 7015 Perfil 3345 Superior FS.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura de Vidro Perfil PVC FS.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_basculantes_free_space" Title="Portas Basculantes Free Space" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Basculante Moldura com Recorte FS.lib</string>
+        <string Enable="true">Biblioteca\\models\\Basculante Puxador 7015 Perfil 3345 Superior FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Conjunto Porta Provencal Basculante.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Almofada FS.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Basculante Cava com Aba Parcial FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Cava Madeira FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Lisa FS.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura de Vidro Perfil PVC FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura Rebaixo FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Palha FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Pux Cava Alum FS.lib</string>
@@ -496,15 +500,18 @@
         <string Enable="true">Biblioteca\\models\\Porta Basculante Puxador Slim FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta basculante puxador usinado FS.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Basculante Puxador Zen Sottile FS.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Basculante Cava com Aba Parcial FS.lib</string>
-        <string Enable="true">Biblioteca\\models\\Basculante Puxador 7015 Perfil 3345 Superior FS.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Basculante Moldura de Vidro Perfil PVC FS.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_cava" Title="Portas Cava" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Porta Cava Madeira.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador Neo 45.lib</string>
+      </Models>
+    </ModelOption>
+    <ModelOption Name="portas_de_passagem" Title="Portas de Passagem" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Porta Passagem Lisa.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Pivotante Puxador Cava.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_deslizantes_balcoes" Title="Portas Deslizantes Balcões" Enable="true">
@@ -598,6 +605,7 @@
       <Models>
         <string Enable="true">Biblioteca\\models\\Conjunto Porta Provencal.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Almofada.lib</string>
+        <string Enable="true">Biblioteca\\models\\Porta Cava com Aba Parcial.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta com Espelho.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Lisa Validacao.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Lisa.lib</string>
@@ -623,13 +631,6 @@
         <string Enable="true">Biblioteca\\models\\Porta Puxador Slim.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta puxador usinado.lib</string>
         <string Enable="true">Biblioteca\\models\\Porta Puxador Zen Sottile.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Cava com Aba Parcial.lib</string>
-      </Models>
-    </ModelOption>    
-    <ModelOption Name="portas_de_passagem" Title="Portas de Passagem" Enable="true">
-      <Models>
-        <string Enable="true">Biblioteca\\models\\Porta Passagem Lisa.lib</string>
-        <string Enable="true">Biblioteca\\models\\Porta Pivotante Puxador Cava.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="portas_provencais" Title="Portas Provençais" Enable="true">
@@ -777,6 +778,12 @@
         <string Enable="true">Biblioteca\\models\\Puxador Gola sem Ponteira.lib</string>
       </Models>
     </ModelOption>
+    <ModelOption Name="puxadores_portas_passagem" Title="Puxadores Portas de Passagem" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Kit Puxador Passagem.lib</string>
+        <string Enable="true">Biblioteca\\models\\Sem Puxador Passagem.lib</string>
+      </Models>
+    </ModelOption>
     <ModelOption Name="puxadores_slice" Title="Puxadores Slice" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Puxador Slice 010.lib</string>
@@ -787,14 +794,11 @@
         <string Enable="true">Biblioteca\\models\\Puxador Slice 070.lib</string>
       </Models>
     </ModelOption>
-    <ModelOption Name="puxadores_portas_passagem" Title="Puxadores Portas de Passagem" Enable="true">
-      <Models>
-        <string Enable="true">Biblioteca\\models\\Sem Puxador Passagem.lib</string>
-        <string Enable="true">Biblioteca\\models\\Kit Puxador Passagem.lib</string>
-      </Models>
-    </ModelOption>
     <ModelOption Name="puxadores_sobreposto" Title="Puxadores Sobreposto" Enable="true">
-      <Models>        
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Furacao Horizontal Puxador Generico.lib</string>
+        <string Enable="true">Biblioteca\\models\\Furacao Ponto Puxador Generico.lib</string>
+        <string Enable="true">Biblioteca\\models\\Furacao Vertical Puxador Generico.lib</string>
         <string Enable="true">Biblioteca\\models\\Puxador 7015.lib</string>
         <string Enable="true">Biblioteca\\models\\Puxador 8015 Slim.lib</string>
         <string Enable="true">Biblioteca\\models\\Puxador Concha Horizontal.lib</string>
@@ -826,9 +830,6 @@
         <string Enable="true">Biblioteca\\models\\Puxador Zen Sorento Vertical.lib</string>
         <string Enable="true">Biblioteca\\models\\Puxador Zen Sorento.lib</string>
         <string Enable="true">Biblioteca\\models\\Sem Puxador.lib</string>
-		<string Enable="true">Biblioteca\\models\\Furacao Horizontal Puxador Generico.lib</string>
-        <string Enable="true">Biblioteca\\models\\Furacao Ponto Puxador Generico.lib</string>
-        <string Enable="true">Biblioteca\\models\\Furacao Vertical Puxador Generico.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="puxadores_sobreposto_duplo" Title="Puxadores Sobreposto Duplo" Enable="true">

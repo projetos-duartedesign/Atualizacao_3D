@@ -27,16 +27,16 @@
     <Attribute subcategory='Limite Largura Bordas' title='Limite largura fita borda tamburato G' name='wpsglimitelargurafitabordatamburatoG' value='101' image='wpsglimitelargurafitabordatamburatoG.png'/>
     <Attribute subcategory='Limite Largura Bordas' title='Limite largura fita borda tamburato H' name='wpsglimitelargurafitabordatamburatoH' value='151' image='wpsglimitelargurafitabordatamburatoH.png'/>
     <!--DESCONTO BORDAS-->
-    <Attribute subcategory='Desconto Bordas' title='Desconto borda tamponamentos 0.45mm' name='wpsgdescontarbordatamponamentos045' value='0.7' image='wpsgdescontarbordatamponamentos045.png'/>
+    <Attribute subcategory='Desconto Bordas' title='Desconto borda tamponamentos 0.45mm' name='wpsgdescontarbordatamponamentos045' value='0' image='wpsgdescontarbordatamponamentos045.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda tamponamentos 1mm' name='wpsgdescontarbordatamponamentos1' value='0.5' image='wpsgdescontarbordatamponamentos1.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda tamponamentos 2mm' name='wpsgdescontarbordatamponamentos2' value='1.5' image='wpsgdescontarbordatamponamentos2.png'/>
-    <Attribute subcategory='Desconto Bordas' title='Desconto borda corpos 0.45mm' name='wpsgdescontarbordacorpos045' value='0.7' image='wpsgdescontarbordacorpos045.png'/>
+    <Attribute subcategory='Desconto Bordas' title='Desconto borda corpos 0.45mm' name='wpsgdescontarbordacorpos045' value='0' image='wpsgdescontarbordacorpos045.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda corpos 1mm' name='wpsgdescontarbordacorpos1' value='0.5' image='wpsgdescontarbordacorpos1.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda corpos 2mm' name='wpsgdescontarbordacorpos2' value='1.5' image='wpsgdescontarbordacorpos2.png'/>
-    <Attribute subcategory='Desconto Bordas' title='Desconto borda painéis 0.45mm' name='wpsgdescontarbordapaineis045' value='0.7' image='wpsgdescontarbordapaineis045.png'/>
+    <Attribute subcategory='Desconto Bordas' title='Desconto borda painéis 0.45mm' name='wpsgdescontarbordapaineis045' value='0' image='wpsgdescontarbordapaineis045.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda painéis 1mm' name='wpsgdescontarbordapaineis1' value='0.5' image='wpsgdescontarbordapaineis1.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda painéis 2mm' name='wpsgdescontarbordapaineis2' value='1.5' image='wpsgdescontarbordapaineis2.png'/>
-    <Attribute subcategory='Desconto Bordas' title='Desconto borda portas e frentes 0.45mm' name='wpsgdescontarbordaportasefrentes045' value='0.7' image='wpsgdescontarbordaportasefrentes045.png'/>
+    <Attribute subcategory='Desconto Bordas' title='Desconto borda portas e frentes 0.45mm' name='wpsgdescontarbordaportasefrentes045' value='0' image='wpsgdescontarbordaportasefrentes045.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda portas e frentes 1mm' name='wpsgdescontarbordaportasefrentes1' value='0.5' image='wpsgdescontarbordaportasefrentes1.png'/>
     <Attribute subcategory='Desconto Bordas' title='Desconto borda portas e frentes 2mm' name='wpsgdescontarbordaportasefrentes2' value='1.5' image='wpsgdescontarbordaportasefrentes2.png'/>
     <!--ESPESSURA BORDAS-->
