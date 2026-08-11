@@ -420,7 +420,7 @@
     <Attribute subcategory='Painel Curvado J' title='Profundidade do painel' name='wpsgprofundidadepainelcurvado' value='575' image='wpsgprofundidadepainelcurvado.png'/>
     <Attribute subcategory='Painel Curvado J' title='Raio da curvatura do painel' name='wpsgraiocurvapainelcurvado' value='100' image='wpsgraiocurvapainelcurvado.png'/>
     <Attribute subcategory='Painel Curvado J' title='Diâmetro da ferramenta para usinagem' name='wpsgdiametroferramentausinagempainelcurvado' value='6' image='wpsgdiametroferramentausinagempainelcurvado.png'/>
-    <Attribute subcategory='Painel Curvado J' title='Largura entre frisos' name='wpsgespessuradentespainelcurvado' value='5' image='wpsgespessuradentespainelcurvado.png'/>
+    <Attribute subcategory='Painel Curvado J' title='Largura entre frisos' name='wpsgespessuradentespainelcurvado' value='10' image='wpsgespessuradentespainelcurvado.png'/>
     <Attribute subcategory='Painel Curvado J' title='Profundidade da usinagem para painel de 15.5 mm' name='wpsgprofundidadepainelcurvado15' option='10.5;11.5;12.5;13.5;14;14.5;14.9' value='14' image='wpsgprofundidadepainelcurvado15.png'/>
     <Attribute subcategory='Painel Curvado J' title='Profundidade da usinagem para painel de 18.5 mm' name='wpsgprofundidadepainelcurvado18' option='13.5;14.5;15.5;16.5;17;17.5;17.9' value='17' image='wpsgprofundidadepainelcurvado18.png'/>
     <Attribute subcategory='Painel Curvado J' title='Profundidade da usinagem para painel de 25.5 mm' name='wpsgprofundidadepainelcurvado25' option='20.5;21.5;22.5;23.5;24;24.5;24.9' value='24.5' image='wpsgprofundidadepainelcurvado25.png'/>

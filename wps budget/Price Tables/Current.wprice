@@ -994,6 +994,7 @@
         <PriceItem Code="MDF_18.5_CINZA_FOSSIL_VELLUTTO" Name="MDF_18.5_Cinza_fossil_vellutto" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_CINZA_FOSSIL_VELLUTTO" ComplexityLevel="0" />
         <PriceItem Code="MDF_18.5_CINZA_PERFEITO_MATT" Name="MDF_18.5_Cinza_Perfeito_Matt" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_CINZA _PERFEITO_MATT" ComplexityLevel="0" />
         <PriceItem Code="MDF_18.5_COLORIDO" Name="MDF_18.5_COLORIDO" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_COLORIDO" ComplexityLevel="0" />
+        <PriceItem Code="MDF_18.5_CRONOS_EVIDENCIAS" Name="MDF_18.5_CRONOS_EVIDENCIAS" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_CRONOS_EVIDENCIAS" ComplexityLevel="0" />
         <PriceItem Code="MDF_18.5_DAMASCO_MATT" Name="MDF_18.5_Damasco_Matt" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_DAMASCO_MATT" ComplexityLevel="0" />
         <PriceItem Code="MDF_18.5_FONTANA" Name="MDF_18.5_FONTANA" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_FONTANA" ComplexityLevel="0" />
         <PriceItem Code="MDF_18.5_FRAPE_MATT" Name="MDF_18.5_FRAPE_MATT" Unit="M2" UnitCost="0" Markup="0" UnitPrice="0" CodExt="MDF_18.5_FRAPE_MATT" ComplexityLevel="0" />
@@ -1598,6 +1599,7 @@
     </PriceCategory>
     <PriceCategory CategoryName="Fitas de borda" ComposesMaterialList="true" IsComponent="false">
       <PriceItems>
+        <PriceItem Code="BOR22X045CRONOS_EVIDENCIAS" Name="BOR22X045CRONOS_EVIDENCIAS" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045CRONOS_EVIDENCIAS" ComplexityLevel="0" />
         <PriceItem Code="BOR22X045PP_2189_BERILO_1_FACE" Name="BOR22X045PP_2189_BERILO_1_FACE" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045PP_2189_BERILO_1_FACE" ComplexityLevel="0" />
         <PriceItem Code="BOR22X045PP_2189_BERILO_2_FACE" Name="BOR22X045PP_2189_BERILO_2_FACE" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045PP_2189_BERILO_2_FACE" ComplexityLevel="0" />
         <PriceItem Code="BOR22X045PP_229_OURO_2_FACE" Name="BOR22X045PP_229_OURO_2_FACE" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045PP_229_OURO_2_FACE" ComplexityLevel="0" />
@@ -2903,7 +2905,6 @@
         <PriceItem Code="BOR22X045NUVEM_MATT" Name="Borda22x45 Nuvem Matt" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045NUVEM_MATT" ComplexityLevel="0" />
         <PriceItem Code="BOR22X45MANGUE" Name="Borda22x45Mangue" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045MANGUE" ComplexityLevel="0" />
         <PriceItem Code="BOR22X045ORVALHO_VERT" Name="Borda22x64 Orvalho Vert" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045ORVALHO_VERT" ComplexityLevel="0" />
-        <PriceItem Code="BOR64X045ROSA_INFINITO" Name="Borda64x045 Rosa Infinito" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045ROSA_INFINITO" ComplexityLevel="0" />
         <PriceItem Code="BOR29X045ROSA_INFINITO_ESSENCIAL" Name="Borda29x045 Rosa Infinito Essencial" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR29X045ROSA_INFINITO_ESSENCIAL" ComplexityLevel="0" />
         <PriceItem Code="BOR35X045TEKA_SOHO" Name="Borda35x035 Teka Soho" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR35X045TEKA_SOHO" ComplexityLevel="0" />
         <PriceItem Code="BOR35X045ALPES_LEO_107" Name="Borda35x045 Alpes Leo 107" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR35X045ALPES_LEO_107" ComplexityLevel="0" />
@@ -2967,6 +2968,7 @@
         <PriceItem Code="BOR64X045NOGUEIRA_FLORIDA" Name="Borda64x045 Nogueira Florida" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045NOGUEIRA_FLORIDA" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045NOGUEIRA_VENETO" Name="Borda64x045 Nogueira Veneto" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045NOGUEIRA_VENETO" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045OFF_WHITE" Name="Borda64x045 Off White" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045OFF_WHITE" ComplexityLevel="0" />
+        <PriceItem Code="BOR64X045ROSA_INFINITO" Name="Borda64x045 Rosa Infinito" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045ROSA_INFINITO" ComplexityLevel="0" />
         <PriceItem Code="BOR22X045SALVIA" Name="Borda64x045 Salvia" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045SALVIA" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045TARTUFO_ACETINATTA" Name="Borda64x045 Tartufo Acetinatta" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045TARTUFO_ACETINATTA" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045TAUPE_MICRO" Name="Borda64x045 Taupe Micro" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045TAUPE_MICRO" ComplexityLevel="0" />
@@ -2974,6 +2976,7 @@
         <PriceItem Code="BOR64X045BETON" Name="Borda64x45 Beton" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045BETON" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045CERRADO_BOLD" Name="Borda64x45 Cerrado Bold" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045CERRADO_BOLD" ComplexityLevel="0" />
         <PriceItem Code="BOR64X045GRAO" Name="Borda64x45 Grao" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR64X045GRAO" ComplexityLevel="0" />
+        <PriceItem Code="BOR22X045PETRA" Name="BOR22X045PETRA" Unit="M" UnitCost="0" Markup="0" UnitPrice="0" CodExt="BOR22X045PETRA" ComplexityLevel="0" />
       </PriceItems>
     </PriceCategory>
     <PriceCategory CategoryName="Vidros" ComposesMaterialList="true" IsComponent="false">
