@@ -880,7 +880,7 @@
     <!-- DISTANCIADOR CORREDIÇA -->
     <Attribute subcategory='Distanciador Corrediça' title='Altura distanciador corrediça' name='wpsgalturadistanciadorcorredica' value='32' image='wpsgalturadistanciadorcorredica.png'/>
     <!-- PADROES CORREDIÇA TELESCOPICA -->
-    <Attribute subcategory='Padrões Corrediça Telescópica' title='Posição corrediça telescópica' name='wpsgposicaocorredicatelescopica' value='25' image='wpsgposicaocorredicatelescopica.png'/>
+    <Attribute subcategory='Padrões Corrediça Telescópica' title='Posição corrediça telescópica' name='wpsgposicaocorredicatelescopica' value='0' image='wpsgposicaocorredicatelescopica.png'/>
     <Attribute subcategory='Padrões Corrediça Telescópica' title='Altura corrediça telescópica' name='wpsgalturacorredicatelescopica' value='45' image='wpsgalturacorredicatelescopica.png'/>
     <Attribute subcategory='Padrões Corrediça Telescópica' title='Espessura corredica telescópica' name='wpsgespessuracorredicatelescopica' value='13' image='wpsgespessuracorredicatelescopica.png'/>
     <!-- Lateral do modulo -->
@@ -1262,9 +1262,9 @@
     <Attribute subcategory='Furação Vertical Puxador Genérico' title='Distância Entre Furos' name='wpsgverticalccspacing' option='32;64;76;96;102;128;160;192;224;256;320;352;384;392;416;448;480;512' value='128' image='wpsgverticalccspacing.png'/>
     <Attribute subcategory='Furação Ponto Puxador Genérico' title='Afastamento horizontal para furação ponto' name='wpsghorizontaloffsetknobdrilling' value='50' image='wpsghorizontaloffsetknobdrilling.png'/>
     <Attribute subcategory='Furação Ponto Puxador Genérico' title='Afastamento vertical para furação ponto' name='wpsgverticaloffsetknobdrilling' value='50' image='wpsgverticaloffsetknobdrilling.png'/>
-    <Attribute subcategory="Puxador cava com aba" title="Distância de início e fim da fresagem em cava" name="wpsgdistanciainiciofresagempuxadorcavacomaba" value="25" image="wpsgdistanciainiciofresagempuxadorcavacomaba.png"/>
-	<Attribute subcategory='Puxador Cava Aluminio' title='Tipo de acabamento da fita de borda do puxador cava 45 alumínio' name='wpsgacabamentobordapuxadorcava45aluminio' option='Fita_Borda;Igual_Porta' value='Igual_Porta' image='wpsgacabamentobordapuxadorcava45aluminio.png'/>
-   </Category>
+    <Attribute subcategory='Puxador cava com aba' title='Distância de início e fim da fresagem em cava' name='wpsgdistanciainiciofresagempuxadorcavacomaba' value='25' image='wpsgdistanciainiciofresagempuxadorcavacomaba.png'/>
+    <Attribute subcategory='Puxador Cava Aluminio' title='Tipo de acabamento da fita de borda do puxador cava 45 alumínio' name='wpsgacabamentobordapuxadorcava45aluminio' option='Fita_Borda;Igual_Porta' value='Igual_Porta' image='wpsgacabamentobordapuxadorcava45aluminio.png'/>
+  </Category>
   <Category name='Portas'>
     <!-- TRANSPASSE PORTAS DESLIZANTES -->
     <Attribute subcategory='Transpasse Portas Deslizantes' title='Transpasse portas trilho interno' name='wpsgtranspassthedoors' value='20' image='wpsgtranspassthedoors.png'/>
