@@ -728,6 +728,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -928,7 +929,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="corpo_dormitorio" Title="Corpo Dormitorio" Enable="true">
@@ -1576,6 +1578,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -1777,7 +1780,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="corpo_home_office" Title="Corpo Home Office" Enable="true">
@@ -2425,6 +2429,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -2620,7 +2625,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="corpo_interno" Title="Corpo Interno" Enable="true">
@@ -3268,6 +3274,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -3469,7 +3476,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="corpos" Title="Corpos" Enable="true">
@@ -4119,6 +4127,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -4320,7 +4329,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
   </Group>
@@ -5066,6 +5076,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -5267,7 +5278,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="fitas_de_borda_frontal" Title="Fitas de Borda Frontal" Enable="true">
@@ -5915,6 +5927,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -6116,7 +6129,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="fitas_de_borda_porta_espelho" Title="Fitas de Borda Porta com Espelho" Enable="true">
@@ -6764,6 +6778,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -6965,7 +6980,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="fitas_de_borda_puxador" Title="Fitas de borda Puxador" Enable="true">
@@ -7613,6 +7629,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -7814,7 +7831,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="postforming" Title="Postforming" Enable="true">
@@ -8472,6 +8490,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -8673,7 +8692,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="paineis" Title="Paineis" Enable="true">
@@ -9321,6 +9341,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -9522,7 +9543,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
   </Group>
@@ -10357,6 +10379,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -10558,7 +10581,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="portas" Title="Portas" Enable="true">
@@ -11206,6 +11230,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -11407,7 +11432,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="portas_e_frentes" Title="Portas e Frentes" Enable="true">
@@ -12055,6 +12081,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -12257,7 +12284,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\Palha Indiana\\PALHA_INDIANA.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
     <MaterialOption Name="portas_e_frentes_pintadas" Title="Portas e Frentes Pintadas" Enable="true">
@@ -13830,6 +13858,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -14031,7 +14060,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
   </Group>
@@ -14681,6 +14711,7 @@
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\ELMO_AVILA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\FREIJO_RIPADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GEADA_EVIDENCIAS.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\JEQUITIBA_DOURADO_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\LEGNO_CANELA_EVIDENCIAS.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\MARROM_GRUTA_EVIDENCIAS.skm</string>
@@ -14882,7 +14913,8 @@
         <string Enable="true">Biblioteca\\materials\\MDP\\ARAUCO\\PRETO_TX_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\BERNECK\\GENGIBRE_MDP.skm</string>
         <string Enable="true">Biblioteca\\materials\\MDP\\DURATEX\\CARVALHO_HANOVER_MDP.skm</string>
-        <string Enable="true">Biblioteca\\materials\\MDF\\LEO MADEIRAS\\GRAO_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\MOSCADA_MATT.skm</string>
+        <string Enable="true">Biblioteca\\materials\\MDF\\ARAUCO\\ANIS_MATT.skm</string>
       </Materials>
     </MaterialOption>
   </Group>
