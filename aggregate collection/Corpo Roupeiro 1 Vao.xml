@@ -106,7 +106,7 @@
           
           if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
         </_leny_formula>
-        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo-wpsgfolgaalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
         <_roty_formula>0</_roty_formula>
         <_rotz_formula>0</_rotz_formula>
@@ -245,7 +245,7 @@
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Cabideiro e Gaveteiro parcial c tamponamento.lib' title='Kit Gavetas Parcial e Cabideiro'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Cabideiro e Gaveteiro Parcial Com Tampo.lib' title='Kit Gavetas Parcial e Cabideiro'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -289,7 +289,7 @@
         <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Sapateira c tampo superior e gavetas.lib' title='Sapateira s tampo superior e com gavetas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo e Gavetas.lib' title='Sapateira s tampo superior e com gavetas'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>

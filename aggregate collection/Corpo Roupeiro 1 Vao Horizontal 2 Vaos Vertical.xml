@@ -125,7 +125,7 @@
           
           if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
         </_leny_formula>
-        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo-wpsgfolgaalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
         <_roty_formula>0</_roty_formula>
         <_rotz_formula>0</_rotz_formula>
@@ -400,7 +400,7 @@
           
           if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
         </_leny_formula>
-        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo-wpsgfolgaalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
         <_roty_formula>0</_roty_formula>
         <_rotz_formula>0</_rotz_formula>

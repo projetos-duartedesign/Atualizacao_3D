@@ -1,6 +1,6 @@
 <OptionalChildren>
   <Category name='Sistemas deslizantes'>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 2 portas JR6.lib' title='Conjunto 2 portas JR6'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 2 Portas JR6.lib' title='Conjunto 2 Portas JR6'>
       <Properties>
         <_x_formula>
           
@@ -19,7 +19,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 3 portas JR6.lib' title='Conjunto 3 portas JR6'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 3 Portas JR6.lib' title='Conjunto 3 Portas JR6'>
       <Properties>
         <_x_formula>
           
@@ -38,7 +38,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 4 portas JR6.lib' title='Conjunto 4 portas JR6'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 4 Portas JR6.lib' title='Conjunto 4 Portas JR6'>
       <Properties>
         <_x_formula>
           
@@ -57,7 +57,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Cj diversas portas JR6.lib' title='Conjunto diversas portas JR6'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\Jr6\\Conjunto 5 Portas JR6.lib' title='Conjunto 5 Portas JR6'>
       <Properties>
         <_x_formula>
           
@@ -78,7 +78,7 @@
     </Child>
   </Category>
   <Category name='Corpos Simples'>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\2 corpos simples.lib' title='2 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 2 Corpos Roupeiro.lib' title='Conjunto 2 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -98,7 +98,7 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\3 corpos simples.lib' title='3 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 3 Corpos Roupeiro.lib' title='Conjunto 3 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -118,7 +118,7 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\4 corpos simples.lib' title='4 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 4 Corpos Roupeiro.lib' title='Conjunto 4 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -138,7 +138,7 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\5 corpos simples.lib' title='5 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 5 Corpos Roupeiro.lib' title='Conjunto 5 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           

@@ -1,6 +1,6 @@
 <OptionalChildren>
   <Category name='Sistemas deslizantes'>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\SDS800 2 portas.lib' title='Conjunto Deslizante SDS800 2 portas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\Conjunto Deslizante SDS800 2 Portas.lib' title='Conjunto Deslizante SDS800 2 Portas'>
       <Properties>
         <_x_formula>
           
@@ -19,7 +19,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\SDS800 3 Portas.lib' title='Conjunto Deslizante SDS800 3 Portas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\Conjunto Deslizante SDS800 3 Portas.lib' title='Conjunto Deslizante SDS800 3 Portas'>
       <Properties>
         <_x_formula>
           
@@ -38,7 +38,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\SDS800 4 Portas.lib' title='Conjunto Deslizante SDS800 4 Portas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\Conjunto Deslizante SDS800 4 Portas.lib' title='Conjunto Deslizante SDS800 4 Portas'>
       <Properties>
         <_x_formula>
           
@@ -57,7 +57,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\SDS800 5 Portas.lib' title='Conjunto Deslizante SDS800 5 Portas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sistemas Deslizantes\\SDS800\\Conjunto Deslizante SDS800 5 Portass.lib' title='Conjunto Deslizante SDS800 5 Portas'>
       <Properties>
         <_x_formula>
           
@@ -78,7 +78,7 @@
     </Child>
   </Category>
   <Category name='Corpos Simples'>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\2 corpos simples.lib' title='2 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 2 Corpos Roupeiro.lib' title='Conjunto 2 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -97,7 +97,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\3 corpos simples.lib' title='3 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 3 Corpos Roupeiro.lib' title='Conjunto 3 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -116,7 +116,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\4 corpos simples.lib' title='4 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 4 Corpos Roupeiro.lib' title='Conjunto 4 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
@@ -135,7 +135,7 @@
         <_rotz_formula>0</_rotz_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\5 corpos simples.lib' title='5 corpos simples'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Corpos simples\\Conjunto 5 Corpos Roupeiro.lib' title='Conjunto 5 Corpos Roupeiro'>
       <Properties>
         <_x_formula>
           
