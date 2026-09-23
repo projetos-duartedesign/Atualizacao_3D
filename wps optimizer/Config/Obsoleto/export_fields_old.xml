@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fields>
+  <!-- <field wpsfieldname="part.id" exportfieldname="part.id" /> -->
+  <field wpsfieldname="part.masterid" exportfieldname="ID" />
+  <field wpsfieldname="part.masterdescription" exportfieldname="Produto Principal" />
+  <field wpsfieldname="part.quantity" exportfieldname="quantidade" />
+  <field wpsfieldname="part.wpscutlength" exportfieldname="comprimento_bruto" />
+  <field wpsfieldname="part.wpscutliquidlength" exportfieldname="Comprimento Liquido" />
+  <field wpsfieldname="part.wpscutwidth" exportfieldname="largura_bruta" />
+  <field wpsfieldname="part.wpscutliquidwidth" exportfieldname="Largura Liquida" />
+  <!-- <field wpsfieldname="part.wpscutthickness" exportfieldname="part.wpscutthickness" /> -->
+  <!-- <field wpsfieldname="part.wpsdescription" exportfieldname="Descrição Matéria" /> -->
+  <!-- <field wpsfieldname="part.wpsextralength" exportfieldname="part.wpsextralength" /> -->
+  <!-- <field wpsfieldname="part.wpsextrawidth" exportfieldname="part.wpsextrawidth" /> -->
+  <field wpsfieldname="part.wpsmaterialcode" exportfieldname="codigo_material" />
+  <!-- <field wpsfieldname="part.wpsmaterialtype" exportfieldname="part.wpsmaterialtype" /> -->
+  <!-- <field wpsfieldname="part.wpscutlist" exportfieldname="part.wpscutlist" /> -->
+  <field wpsfieldname="part.wpsprocesscodea" exportfieldname="Usinagem A" />
+  <field wpsfieldname="part.wpsprocesscodeb" exportfieldname="Usinagem B" />
+  
+  
+  
+  <!-- <field wpsfieldname="parent.id" exportfieldname="parent.id" /> -->
+  <!-- <field wpsfieldname="parent.wpscode" exportfieldname="parent.wpscode" /> -->
+  <!-- <field wpsfieldname="parent.wpsdepth" exportfieldname="parent.wpsdepth" /> -->
+  <field wpsfieldname="parent.wpsdescription" exportfieldname="descricao" />
+  <!-- <field wpsfieldname="parent.wpsfinish" exportfieldname="parent.wpsfinish" /> -->
+  <!-- <field wpsfieldname="parent.wpsheight" exportfieldname="parent.wpsheight" /> -->
+  <!-- <field wpsfieldname="parent.wpsthickness" exportfieldname="parent.wpsthickness" /> -->
+  <!-- <field wpsfieldname="parent.wpswidth" exportfieldname="parent.wpswidth" /> -->
+  <!--  <field wpsfieldname="parent.wpstextuser" exportfieldname="Observação Principal" /> -->
+  <field wpsfieldname="part.wpstextuser" exportfieldname="Observação Principal" />
+  <field wpsfieldname="parent.wpsedgeside1" exportfieldname="Comprimento Frontal" />
+  <field wpsfieldname="parent.wpsedgeside2" exportfieldname="Comprimento Traseiro" />
+  <field wpsfieldname="parent.wpsedgeside3" exportfieldname="Largura Esquerda" />
+  <field wpsfieldname="parent.wpsedgeside4" exportfieldname="Largura Direita" />
+  <!-- <field wpsfieldname="parent.wpsedgesides" exportfieldname="parent.wpsedgesides" /> -->
+  <field wpsfieldname="parent.wpsedgesidetype" exportfieldname="Tipo Borda" />
+  <!-- <field wpsfieldname="parent.wpsobservacao" exportfieldname="parent.wpsobservacao" /> -->
+  <field wpsfieldname="parent.wpstextaggregates" exportfieldname="Observação Peça" />
+  
+  
+  
+  <field wpsfieldname="project.wpsclient" exportfieldname="Cliente" />
+  <field wpsfieldname="project.wpsproject" exportfieldname="Projeto" />
+  <field wpsfieldname="project.wpsseller" exportfieldname="Vendedor" />
+  <field wpsfieldname="project.wpsorder" exportfieldname="Pedido" />
+  <!-- <field wpsfieldname="part.wpsquantity" exportfieldname="part.wpsquantity" /> -->
+  <field wpsfieldname="part.wpsnestingprocesscode" exportfieldname="Nesting File" />
+  <field wpsfieldname="parent.wpsgdescontarborda" exportfieldname="Desconto Borda" />
+  <field wpsfieldname="project.wpsproductionorder" exportfieldname="Ordem de Produção" /> 
+  <field wpsfieldname="project.wpsprojobservation" exportfieldname="Observação do Projeto" />
+
+
+</fields>
