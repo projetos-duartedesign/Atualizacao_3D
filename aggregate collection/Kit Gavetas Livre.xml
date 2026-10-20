@@ -1,0 +1,58 @@
+<OptionalChildren>
+  <Category name='Gaveta'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Kit Gaveta Com Dianteira.lib' title='Gaveta'>
+      <Properties>
+        <_x_formula>
+           if(Parent!VistaFechamento=0,
+          Parent!LarguraVista+RecobrimentoEsquerdo, if(Parent!VistaFechamento=2,
+          Parent!LarguraVista+RecobrimentoEsquerdo, RecobrimentoEsquerdo))
+          +IF(Parent!ModeloFrente=0,Parent!EspessuraCorpo,0) 
+        </_x_formula>
+        <_y_formula>
+           If(Parent!ModeloFrente=0,-Parent!LenY+2.2+Parent!RecuoFrontal,
+          -Parent!LenY+Parent!RecuoFrente+Parent!RecuoFrontal) 
+        </_y_formula>
+        <z>RecobrimentoInferior</z>
+        <_lenx_formula>
+           if(Parent!VistaFechamento=3,
+          Parent!LenX-RecobrimentoDireito-RecobrimentoEsquerdo,
+          if(Parent!VistaFechamento=2,
+          Parent!LenX-2*Parent!LarguraVista-RecobrimentoDireito-RecobrimentoEsquerdo, Parent!LenX-Parent!LarguraVista-RecobrimentoDireito-RecobrimentoEsquerdo)) -IF(Parent!ModeloFrente=0,2*Parent!EspessuraCorpo,0) 
+        </_lenx_formula>
+        <_leny_formula>Parent!ProfundidadeGaveta-wpsuserdrawerdepthchange</_leny_formula>
+        <_lenz_formula>AlturaGaveta</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+  </Category>
+  <Category name='Sapateira'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateira.lib' title='Sapateira'>
+      <Properties>
+        <_x_formula>
+           if(Parent!VistaFechamento=0,
+          Parent!LarguraVista+RecobrimentoEsquerdo, if(Parent!VistaFechamento=2,
+          Parent!LarguraVista+RecobrimentoEsquerdo, RecobrimentoEsquerdo))
+          +IF(Parent!ModeloFrente=0,Parent!EspessuraCorpo,0) 
+        </_x_formula>
+        <_y_formula>
+           If(Parent!ModeloFrente=0,-Parent!LenY+2.2+Parent!RecuoFrontal,
+          -Parent!LenY+Parent!RecuoFrente+Parent!RecuoFrontal) 
+        </_y_formula>
+        <z>RecobrimentoInferior</z>
+        <_lenx_formula>
+           if(Parent!VistaFechamento=3,
+          Parent!LenX-RecobrimentoDireito-RecobrimentoEsquerdo,
+          if(Parent!VistaFechamento=2,
+          Parent!LenX-2*Parent!LarguraVista-RecobrimentoDireito-RecobrimentoEsquerdo, Parent!LenX-Parent!LarguraVista-RecobrimentoDireito-RecobrimentoEsquerdo)) -IF(Parent!ModeloFrente=0,2*Parent!EspessuraCorpo,0) 
+        </_lenx_formula>
+        <_leny_formula>Parent!ProfundidadeGaveta-DescontoProfundidadeGaveta</_leny_formula>
+        <_lenz_formula>AlturaFrente</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+      </Properties>
+    </Child>
+  </Category>
+</OptionalChildren>

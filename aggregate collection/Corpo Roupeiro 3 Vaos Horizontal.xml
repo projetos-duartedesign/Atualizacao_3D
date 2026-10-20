@@ -136,7 +136,7 @@
         <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Kit Gavetas Sem Tampo.lib' title='Kit Gavetas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Kit Gavetas.lib' title='Kit Gavetas'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -147,7 +147,7 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior-wpsgfolgalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -155,9 +155,10 @@
         <_rotz_formula>0</_rotz_formula>
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Cabideiro Sem Tampo.lib' title='Kit Gavetas e Cabideiro'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Kit Gavetas Livre.lib' title='Kit Gavetas Livre'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -168,7 +169,29 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior-wpsgfolgalturagaveteiroagregados</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Cabideiro Com Tampo.lib' title='Kit Gavetas e Cabideiro'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!LenX-2*Parent!EspessuraCorpo,Parent!LenX-Parent!EspessuraCorpo) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior-wpsgfolgalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -177,9 +200,10 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Prateleira Sem Tampo.lib' title='Kit Gavetas e Prateleira'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Prateleira Com Tampo.lib' title='Kit Gavetas e Prateleira'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -190,7 +214,7 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior-wpsgfolgalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -199,9 +223,10 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Calceiro Sem Tampo.lib' title='Gaveteiro e Calceiro Sem Tampo'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Calceiro Com Tampo.lib' title='Gaveteiro e Calceiro Sem Tampo'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -212,16 +237,17 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-1 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-1-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!vaoInferior-wpsgfolgalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
         <_roty_formula>0</_roty_formula>
         <_rotz_formula>0</_rotz_formula>
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Cabideiro e Gaveteiro Parcial Sem Tampo.lib' title='Kit Gavetas Parcial e Cabideiro'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Cabideiro e Gaveteiro Parcial.lib' title='Kit Gavetas Parcial e Cabideiro'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -232,7 +258,7 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior-wpsgfolgaalturagaveteiroagregados</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -241,6 +267,7 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+        <_tampointernogaveteiro_formula>1</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
     <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Sem Tampo.lib' title='Kit Sapateiras'>

@@ -336,6 +336,13 @@
         <string Enable="true">Biblioteca\\models\\Gaveta Telescopica.lib</string>
       </Models>
     </ModelOption>
+    <ModelOption Name="gavetas_roupeiro" Title="Gavetas" Enable="true">
+      <Models>
+        <string Enable="true">Biblioteca\\models\\Gaveta Oculta B.lib</string>
+        <string Enable="true">Biblioteca\\models\\Gaveta Oculta.lib</string>
+        <string Enable="true">Biblioteca\\models\\Gaveta Telescopica.lib</string>
+      </Models>
+    </ModelOption>
     <ModelOption Name="porta latas" Title="Porta Latas" Enable="true">
       <Models>
         <string Enable="true">Biblioteca\\models\\Gaveta Alto Drawer.lib</string>
