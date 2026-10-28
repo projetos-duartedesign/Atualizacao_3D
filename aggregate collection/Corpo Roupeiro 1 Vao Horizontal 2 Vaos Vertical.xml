@@ -201,7 +201,7 @@
         <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo.lib' title='Kit Sapateiras'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras.lib' title='Kit Sapateiras'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -212,7 +212,7 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -221,6 +221,30 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_vistafechamento_formula>if(Parent!wpsinvertedx=1,3,0)</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Gaveteiro Sapateira.lib' title='Kit Gaveteiro Sapateira'>
+      <Properties>
+        <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>
+          
+          if(Parent!wpsinvertedy=0,Parent!ParametriaLateralIntermediaria-Parent!EspessuraCorpo,Parent!ParametriaLateralIntermediaria) 
+        </_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_vistafechamento_formula>if(Parent!wpsinvertedx=1,3,0)</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
   </Category>
@@ -474,7 +498,7 @@
         <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo.lib' title='Kit Sapateiras'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras.lib' title='Kit Sapateiras'>
       <Properties>
         <_x_formula>Parent!LenX-LenX-Parent!EspessuraCorpo</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -482,7 +506,7 @@
         <_lenx_formula>Parent!LenX-Parent!ParametriaLateralIntermediaria-2*Parent!EspessuraCorpo</_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -491,6 +515,27 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_vistafechamento_formula>if(Parent!wpsinvertedx=0,3,1)</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
+      </Properties>
+    </Child>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Gaveteiro Sapateira.lib' title='Kit Gaveteiro Sapateira'>
+      <Properties>
+        <_x_formula>Parent!LenX-LenX-Parent!EspessuraCorpo</_x_formula>
+        <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
+        <_z_formula>Parent!EspessuraCorpo</_z_formula>
+        <_lenx_formula>Parent!LenX-Parent!ParametriaLateralIntermediaria-2*Parent!EspessuraCorpo</_lenx_formula>
+        <_leny_formula>
+          
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
+        </_leny_formula>
+        <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
+        <_rotx_formula>0</_rotx_formula>
+        <_roty_formula>0</_roty_formula>
+        <_rotz_formula>0</_rotz_formula>
+        <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
+        <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
+        <_vistafechamento_formula>if(Parent!wpsinvertedx=0,3,1)</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
     <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Gaveteiros\\Gaveteiro e Calceiro Com Tampo.lib' title='Gaveteiro e Calceiro Com Tampo'>

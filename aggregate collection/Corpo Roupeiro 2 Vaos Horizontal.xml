@@ -314,7 +314,7 @@
         <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo.lib' title='Kit Sapateiras'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras.lib' title='Kit Sapateiras'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -325,7 +325,7 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados) 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!VaoInferior+Parent!EspessuraCorpo</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
@@ -334,9 +334,10 @@
         <_espessuracorpo_formula>Parent!EspessuraCorpo</_espessuracorpo_formula>
         <_espessuratampointerno_formula>Parent!EspessuraTampoInterno</_espessuratampointerno_formula>
         <_vistafechamento_formula>Parent!wpsinvertedx</_vistafechamento_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
-    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Sapateiras Com Tampo e Gavetas.lib' title='Kit Sapateiras e Gavetas'>
+    <Child file='\\Biblioteca\\Agregados\\Dormitorio\\Sapateiras\\Kit Gaveteiro Sapateira.lib' title='Kit Sapateiras e Gavetas'>
       <Properties>
         <_x_formula>if(Parent!wpsinvertedy=0,Parent!EspessuraCorpo,0)</_x_formula>
         <_y_formula>if(Parent!Fundo=&quot;Com_Fundo&quot;,-Parent!EspessuraCorpo-0.6,0)</_y_formula>
@@ -347,13 +348,14 @@
         </_lenx_formula>
         <_leny_formula>
           
-          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-1 
+          if(Parent!Fundo=&quot;Com_Fundo&quot;,Parent!LenY-Parent!RecuoAgregados-Parent!EspessuraCorpo-0.6,Parent!LenY-Parent!RecuoAgregados)-DescontoFrentePuxador 
         </_leny_formula>
         <_lenz_formula>Parent!vaoInferior</_lenz_formula>
         <_rotx_formula>0</_rotx_formula>
         <_roty_formula>0</_roty_formula>
         <_rotz_formula>0</_rotz_formula>
         <_wpsinvertedx_formula>Parent!wpsinvertedx</_wpsinvertedx_formula>
+        <_tampointernogaveteiro_formula>0</_tampointernogaveteiro_formula>
       </Properties>
     </Child>
   </Category>

@@ -109,28 +109,29 @@
     </ModelOption>
     <ModelOption Name="dobradicas" Title="Dobradicas" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj.lib</string>
         <string Enable="true">Biblioteca\\models\\Dobradica Amor. Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Metalla 330 Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor. Cj.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_canto_reto" Title="Dobradicas Canto Reto" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj Canto Reto.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Amor. Calco Duplo Cj Canto Reto.lib</string>
         <string Enable="true">Biblioteca\\models\\Dobradica Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj Canto Reto.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor. Cj Canto Reto.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj Canto Reto.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj Canto Reto.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor. Calco Duplo Cj Canto Reto.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor. Cj Canto Reto.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_155" Title="Dobradiças 155°" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj 155.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj 155.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Amor. Cj 155.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Porta Espessa Sem Amor. Cj 155.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_155_canto_l" Title="Dobradiças 155° Canto L" Enable="true">
@@ -141,22 +142,22 @@
     </ModelOption>
     <ModelOption Name="dobradicas_165°" Title="Dobradicas 165°" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. 165 Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor.165 Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Amor. 165 Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor.165 Cj.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_165_canto_l" Title="Dobradiças 165° Canto L" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Amor. 165 Cj Canto L.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Sem Amor.165 Cj Canto L.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Amor. 165 Cj Canto L.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Sem Amor.165 Cj Canto L.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="dobradicas_curva" Title="Dobradicas Curva" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Dobradica Curva Amor. Calco Duplo Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Curva Amor. Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Curva Sem Amor. Calco Duplo Cj.lib</string>
-        <string Enable="true">Biblioteca\\models\\Dobradica Curva Sem Amor. Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Curva Amor. Calco Duplo Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Curva Amor. Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Curva Sem Amor. Calco Duplo Cj.lib</string>
+        <string Enable="false">Biblioteca\\models\\Dobradica Curva Sem Amor. Cj.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="fixacao_corpo_new" Title="Fixacao Corpo New" Enable="true">
@@ -327,6 +328,7 @@
   <Group Name="Gavetas" Enable="true">
     <ModelOption Name="gavetas" Title="Gavetas" Enable="true">
       <Models>
+        <string Enable="true">Biblioteca\\models\\Gaveta Oculta A30 GT3 Sincro.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Alto Drawer.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Metabox.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Oculta B.lib</string>
@@ -338,6 +340,7 @@
     </ModelOption>
     <ModelOption Name="gavetas_roupeiro" Title="Gavetas" Enable="true">
       <Models>
+        <string Enable="true">Biblioteca\\models\\Gaveta Oculta A30 GT3 Sincro.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Oculta B.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Oculta.lib</string>
         <string Enable="true">Biblioteca\\models\\Gaveta Telescopica.lib</string>
@@ -356,14 +359,8 @@
     </ModelOption>
     <ModelOption Name="sapateiras" Title="Sapateiras" Enable="true">
       <Models>
-        <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Oculta B.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Oculta.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira com Dianteira Telescopica.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira Oculta B.lib</string>
+        <string Enable="true">Biblioteca\\models\\Sapateira Oculta A30 GT3 Sincro.lib</string>
         <string Enable="true">Biblioteca\\models\\Sapateira Oculta.lib</string>        
-        <string Enable="true">Biblioteca\\models\\Sapateira com Laterais Oculta B.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira com Laterais Oculta.lib</string>
-        <string Enable="true">Biblioteca\\models\\Sapateira Telescopica.lib</string>
       </Models>
     </ModelOption>
     <ModelOption Name="tulha" Title="Tulha" Enable="true">
