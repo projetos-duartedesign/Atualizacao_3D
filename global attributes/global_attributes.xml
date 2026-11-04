@@ -984,25 +984,29 @@
     <Attribute subcategory='Padrões Corrediça Oculta' title='Largura usinagem traseira oculta' name='wpsgLarguraUsinagemTraseiraOculta' value='30' image='wpsgLarguraUsinagemTraseiraOculta.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Valor inicio usinagem fora da peça' name='wpsgValorInicioUsinagemForaPeca' value='0' image='wpsgValorInicioUsinagemForaPeca.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Diâmetro fresa rebaixo lateral gaveta oculta 18mm' name='wpsgdiametrofresarebaixolateralgavetaoculta' value='5.5' image='wpsgdiametrofresarebaixolateralgavetaoculta.png'/>
+  <Category name='Corrediça Oculta GT3'>
+    <!-- PADROES CORREDICA OCULTA GT3-->
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Altura do furo lateral corrediça oculta' name='wpsgAlturaFuroLateralCorredicaOcultaGT3' value='37' image='wpsgAlturaFuroLateralCorredicaOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Distância altura do engate da gaveta oculta' name='wpsgDistanciaAlturaEngateGavetaOcultaGT3' value='38.5' image='wpsgDistanciaAlturaEngateGavetaOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Distância lateral apoio gaveta oculta' name='wpsgDistanciaLateralApoioGavetaOcultaGT3' value='25' image='wpsgDistanciaLateralApoioGavetaOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Distância lateral engate gaveta oculta' name='wpsgDistanciaLateralEngateGavetaOcultaGT3' value='31.5' image='wpsgDistanciaLateralEngateGavetaOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Largura usinagem contra frente oculta' name='wpsgLarguraUsinagemContraFrenteOcultaGT3' value='70' image='wpsgLarguraUsinagemContraFrenteOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Largura usinagem traseira oculta' name='wpsgLarguraUsinagemTraseiraOcultaGT3' value='30' image='wpsgLarguraUsinagemTraseiraOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Valor inicio usinagem fora da peça' name='wpsgValorInicioUsinagemForaPeca' value='0' image='wpsgValorInicioUsinagemForaPeca.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Diâmetro fresa rebaixo lateral gaveta oculta 18mm' name='wpsgdiametrofresarebaixolateralgavetaoculta' value='5.5' image='wpsgdiametrofresarebaixolateralgavetaoculta.png'/>
     <!-- Furo lateral do modulo-->
-    <Attribute subcategory='Furação Lateral do Módulo' title='Primeiro furo corrediça oculta' name='wpsgPrimeiroFuroCorredicaOcultaA' value='40' image='wpsgPrimeiroFuroCorredicaOcultaA.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 250' name='wpsgsegundoFuroCorredicaOculta250A' value='96' image='wpsgsegundoFuroCorredicaOculta250A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 300' name='wpsgsegundoFuroCorredicaOculta300A' value='128' image='wpsgsegundoFuroCorredicaOculta300A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 350' name='wpsgsegundoFuroCorredicaOculta350A' value='224' image='wpsgsegundoFuroCorredicaOculta350A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 400' name='wpsgsegundoFuroCorredicaOculta400A' value='192' image='wpsgsegundoFuroCorredicaOculta400A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 450' name='wpsgsegundoFuroCorredicaOculta450A' value='224' image='wpsgsegundoFuroCorredicaOculta450A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 500' name='wpsgsegundoFuroCorredicaOculta500A' value='224' image='wpsgsegundoFuroCorredicaOculta500A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 550' name='wpsgsegundoFuroCorredicaOculta550A' value='224' image='wpsgsegundoFuroCorredicaOculta550A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 600' name='wpsgsegundoFuroCorredicaOculta600A' value='288' image='wpsgsegundoFuroCorredicaOculta600A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 650' name='wpsgsegundoFuroCorredicaOculta650A' value='352' image='wpsgsegundoFuroCorredicaOculta650A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 700' name='wpsgsegundoFuroCorredicaOculta700A' value='352' image='wpsgsegundoFuroCorredicaOculta700A.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 750' name='wpsgsegundoFuroCorredicaOculta750A' value='352' image='wpsgsegundoFuroCorredicaOculta750A.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Engate corrediça oculta (0-Sim | 1-Não)' name='wpsgengatecorredicaocultaA' option='0;1' value='0' image='wpsgengatecorredicaocultaA.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Distância primeiro furo engate da gaveta oculta' name='wpsgdistanciaprimeirofuroengategavetaocultaA' value='7' image='wpsgdistanciaprimeirofuroengategavetaocultaA.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Distância segundo furo engate da gaveta oculta' name='wpsgdistanciasegundofuroengategavetaocultaA' value='32' image='wpsgdistanciasegundofuroengategavetaocultaA.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Altura furo engate gaveta oculta' name='wpsgalturafuroengatecorredicaocultaA' value='6.5' image='wpsgalturafuroengatecorredicaocultaA.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Furos Engate corrediça oculta (0-Sim | 1-Não)' name='wpsghabilitafurosengatecorredicaoculta' option='0;1' value='0' image='wpsghabilitafurosengatecorredicaoculta.png'/>
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Altura do segundo furo lateral corrediça oculta' name='wpsgAlturaSegundoFuroLateralCorredicaOcultaA' value='37' image='wpsgAlturaSegundoFuroLateralCorredicaOcultaA.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Primeiro furo corrediça oculta' name='wpsgPrimeiroFuroCorredicaOcultaGT3' value='39' image='wpsgPrimeiroFuroCorredicaOcultaGT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 250' name='wpsgSegundoFuroCorredicaOculta250GT3' value='130' image='wpsgSegundoFuroCorredicaOculta250GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 300' name='wpsgSegundoFuroCorredicaOculta300GT3' value='130' image='wpsgSegundoFuroCorredicaOculta300GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 350' name='wpsgSegundoFuroCorredicaOculta350GT3' value='226' image='wpsgSegundoFuroCorredicaOculta350GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 400' name='wpsgSegundoFuroCorredicaOculta400GT3' value='226' image='wpsgSegundoFuroCorredicaOculta400GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 450' name='wpsgSegundoFuroCorredicaOculta450GT3' value='226' image='wpsgSegundoFuroCorredicaOculta450GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 500' name='wpsgSegundoFuroCorredicaOculta500GT3' value='256' image='wpsgSegundoFuroCorredicaOculta500GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 550' name='wpsgSegundoFuroCorredicaOculta550GT3' value='226' image='wpsgSegundoFuroCorredicaOculta550GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 600' name='wpsgSegundoFuroCorredicaOculta600GT3' value='226' image='wpsgSegundoFuroCorredicaOculta600GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 650' name='wpsgSegundoFuroCorredicaOculta650GT3' value='226' image='wpsgSegundoFuroCorredicaOculta650GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 700' name='wpsgSegundoFuroCorredicaOculta700GT3' value='226' image='wpsgSegundoFuroCorredicaOculta700GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 750' name='wpsgSegundoFuroCorredicaOculta750GT3' value='352' image='wpsgSegundoFuroCorredicaOculta750GT3.png'/>
   </Category>
   <Category name='Gavetas'>
     <!-- GAVETA TELESCÓPICA -->
@@ -1013,6 +1017,14 @@
     <Attribute subcategory='Gaveta Telescópica' title='Altura segunda gaveta fixa' name='wpsgalturasegundagavetafixa' value='110' image='wpsgalturasegundagavetafixa.png'/>
     <Attribute subcategory='Gaveta Telescópica' title='Altura terceira gaveta fixa' name='wpsgalturaterceiragavetafixa' value='180' image='wpsgalturaterceiragavetafixa.png'/>
     <Attribute subcategory='Gaveta Telescópica' title='Altura quarta gaveta fixa' name='wpsgalturaquartagavetafixa' value='250' image='wpsgalturaquartagavetafixa.png'/>
+	
+    <!-- GAVETA OCULTA	GT3 -->
+    <Attribute subcategory='Gaveta Oculta GT3' title='Distância do fundo em relação a corrediça' name='wpsgalturafundogavetabasecorredicaGT3' value='27.5' image='wpsgalturafundogavetabasecorredicaGT3.png'/>
+    <Attribute subcategory='Gaveta Oculta GT3' title='Desconto na profundidade da gaveta' name='wpsgdescontoprofundidadegavetaocultaGT3' value='0' image='wpsgdescontoprofundidadegavetaocultaGT3.png'/>
+    <Attribute subcategory='Gaveta Oculta GT3' title='Folga entre lateral da gaveta e corrediça' name='wpsgfolgaentrelateraisgavetaocultaGT3' value='9' image='wpsgfolgaentrelateraisgavetaocultaGT3.png'/>
+    <Attribute subcategory='Gaveta Oculta GT3' title='Distância do fundo em relação a lateral' name='wpsgposicaofundogavetaGT3' value='12' image='wpsgposicaofundogavetaGT3.png'/>
+    <Attribute subcategory='Gaveta Oculta GT3' title='Definição modelo corpo gaveta' name='wpsgmodelocorpogaveta' option='0;1' value='1' image='wpsgmodelocorpogaveta.png'/>
+	
     <!-- GAVETA OCULTA	-->
     <Attribute subcategory='Gaveta Oculta' title='Distância do fundo em relação a corrediça' name='wpsgalturafundogavetabasecorredicaa' value='27.5' image='wpsgalturafundogavetabasecorredicaa.png'/>
     <Attribute subcategory='Gaveta Oculta' title='Desconto na profundidade da gaveta' name='wpsgdescontoprofundidadegavetaocultaa' value='0' image='wpsgdescontoprofundidadegavetaocultaa.png'/>
@@ -1053,6 +1065,12 @@
     <Attribute subcategory='Dobradiças' title='Distância quantidade 3 dobradiças' name='wpsgquantidadedobradica3' value='1600' image='wpsgquantidadedobradica3.png'/>
     <Attribute subcategory='Dobradiças' title='Distância quantidade 4 dobradiças' name='wpsgquantidadedobradica4' value='2300' image='wpsgquantidadedobradica4.png'/>
     <Attribute subcategory='Dobradiças' title='Distância quantidade 5 dobradiças' name='wpsgquantidadedobradica5' value='3000' image='wpsgquantidadedobradica5.png'/>
+	
+    <!-- DOBRADIÇA METALLA 330-->
+    <Attribute subcategory='Dobradiças' title='Distância entre marcação calço' name='wpsgDistanciaCalcoMetalla330' value='37' image='wpsgDistanciaCalcoMetalla330.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância entre marcação caneco' name='wpsgDistanciaFurosCanecoMetalla330' value='48' image='wpsgDistanciaFurosCanecoMetalla330.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância entre marcação caneco' name='wpsgFuroCanecoMarcacaoMetalla330' value='0.55' image='wpsgFuroCanecoMarcacaoMetalla330.png'/>
+	
     <!-- DOBRADIÇAS CANTO L-->
     <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça reta' name='wpsgdistanciacalcometadecanecoreta165' value='7.5' image='wpsgdistanciacalcometadecanecoreta165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva165' value='14.75' image='wpsgdistanciacalcometadecanecocurva165.png'/>
