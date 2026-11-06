@@ -987,7 +987,7 @@
   </Category>
   <Category name='Corrediça Oculta GT3'>
     <!-- PADROES CORREDICA OCULTA GT3-->
-    <Attribute subcategory='Padrões Corrediça Oculta' title='Altura do furo lateral corrediça oculta' name='wpsgAlturaFuroLateralCorredicaOcultaGT3' value='37' image='wpsgAlturaFuroLateralCorredicaOcultaGT3.png'/>
+    <Attribute subcategory='Padrões Corrediça Oculta' title='Altura do furo lateral corrediça oculta' name='wpsgAlturaFuroLateralCorredicaOcultaGT3' value='43' image='wpsgAlturaFuroLateralCorredicaOcultaGT3.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Distância altura do engate da gaveta oculta' name='wpsgDistanciaAlturaEngateGavetaOcultaGT3' value='38.5' image='wpsgDistanciaAlturaEngateGavetaOcultaGT3.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Distância lateral apoio gaveta oculta' name='wpsgDistanciaLateralApoioGavetaOcultaGT3' value='25' image='wpsgDistanciaLateralApoioGavetaOcultaGT3.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Distância lateral engate gaveta oculta' name='wpsgDistanciaLateralEngateGavetaOcultaGT3' value='31.5' image='wpsgDistanciaLateralEngateGavetaOcultaGT3.png'/>
