@@ -1054,15 +1054,15 @@
   </Category>
   <Category name='Dobradiças'>
     <Attribute subcategory='Dobradiças' title='Distância calço metade caneco dobradiça reta' name='wpsgdistanciacalcometadecanecoreta' value='7.5' image='wpsgdistanciacalcometadecanecoreta.png'/>
-    <Attribute subcategory='Dobradiças' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva' value='14.75' image='wpsgdistanciacalcometadecanecocurva.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva' value='17.5' image='wpsgdistanciacalcometadecanecocurva.png'/>
     <Attribute subcategory='Dobradiças' title='Distância calço metade caneco dobradiça super curva' name='wpsgdistanciacalcometadecanecosupercurva' value='24.5' image='wpsgdistanciacalcometadecanecosupercurva.png'/>
-    <Attribute subcategory='Dobradiças' title='Distância entre marcação calço' name='wpsgdistanciacalco' value='39' image='wpsgdistanciacalco.png'/>
-    <Attribute subcategory='Dobradiças' title='Distância entre marcação caneco' name='wpsgdistanciafuroscaneco' value='52' image='wpsgdistanciafuroscaneco.png'/>
-    <Attribute subcategory='Dobradiças' title='Posição da marcação caneco' name='wpsgfurocanecomarcacao' value='5.5' image='wpsgfurocanecomarcacao.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância entre marcação calço' name='wpsgdistanciacalco' value='37' image='wpsgdistanciacalco.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância entre marcação caneco' name='wpsgdistanciafuroscaneco' value='48' image='wpsgdistanciafuroscaneco.png'/>
+    <Attribute subcategory='Dobradiças' title='Posição da marcação caneco' name='wpsgfurocanecomarcacao' value='6' image='wpsgfurocanecomarcacao.png'/>
     <Attribute subcategory='Dobradiças' title='Distância quantidade 2 dobradiças' name='wpsgquantidadedobradica2' value='900' image='wpsgquantidadedobradica2.png'/>
     <Attribute subcategory='Dobradiças' title='Distância quantidade 3 dobradiças' name='wpsgquantidadedobradica3' value='1600' image='wpsgquantidadedobradica3.png'/>
-    <Attribute subcategory='Dobradiças' title='Distância quantidade 4 dobradiças' name='wpsgquantidadedobradica4' value='2300' image='wpsgquantidadedobradica4.png'/>
-    <Attribute subcategory='Dobradiças' title='Distância quantidade 5 dobradiças' name='wpsgquantidadedobradica5' value='3000' image='wpsgquantidadedobradica5.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância quantidade 4 dobradiças' name='wpsgquantidadedobradica4' value='2000' image='wpsgquantidadedobradica4.png'/>
+    <Attribute subcategory='Dobradiças' title='Distância quantidade 5 dobradiças' name='wpsgquantidadedobradica5' value='2500' image='wpsgquantidadedobradica5.png'/>
 	
     <!-- DOBRADIÇA METALLA 330-->
     <Attribute subcategory='Dobradiças' title='Distância entre marcação calço' name='wpsgDistanciaCalcoMetalla330' value='37' image='wpsgDistanciaCalcoMetalla330.png'/>
@@ -1071,7 +1071,7 @@
 	
     <!-- DOBRADIÇAS CANTO L-->
     <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça reta' name='wpsgdistanciacalcometadecanecoreta165' value='7.5' image='wpsgdistanciacalcometadecanecoreta165.png'/>
-    <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva165' value='14.75' image='wpsgdistanciacalcometadecanecocurva165.png'/>
+    <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva165' value='17.5' image='wpsgdistanciacalcometadecanecocurva165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância calço metade caneco dobradiça super curva' name='wpsgdistanciacalcometadecanecosupercurva165' value='24.5' image='wpsgdistanciacalcometadecanecosupercurva165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância entre marcação calço 165' name='wpsgDistanciaCalco165' value='37' image='wpsgDistanciaCalco165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância entre marcação caneco 165' name='wpsgDistanciaFurosCaneco165' value='48' image='wpsgDistanciaFurosCaneco165.png'/>
@@ -1084,8 +1084,8 @@
     <Attribute subcategory='Dobradiças Canto L' title='Diâmetro do furo do caneco 165' name='wpsgdiametrofurocaneco165' option='35;40' value='35' image='wpsgdiametrofurocaneco165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 2 dobradiças 165' name='wpsgquantidadedobradica2grau165' value='900' image='wpsgquantidadedobradica2grau165.png'/>
     <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 3 dobradiças 165' name='wpsgquantidadedobradica3grau165' value='1600' image='wpsgquantidadedobradica3grau165.png'/>
-    <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 4 dobradiças 165' name='wpsgquantidadedobradica4grau165' value='2300' image='wpsgquantidadedobradica4grau165.png'/>
-    <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 5 dobradiças 165' name='wpsgquantidadedobradica5grau165' value='3000' image='wpsgquantidadedobradica5grau165.png'/>
+    <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 4 dobradiças 165' name='wpsgquantidadedobradica4grau165' value='2000' image='wpsgquantidadedobradica4grau165.png'/>
+    <Attribute subcategory='Dobradiças Canto L' title='Distância quantidade 5 dobradiças 165' name='wpsgquantidadedobradica5grau165' value='2500' image='wpsgquantidadedobradica5grau165.png'/>
     <Attribute subcategory='Dobradiças Canto L 155°' title='Distância calço metade caneco dobradiça reta' name='wpsgdistanciacalcometadecanecoreta155' value='7.5' image='wpsgdistanciacalcometadecanecoreta155.png'/>
     <Attribute subcategory='Dobradiças Canto L 155°' title='Distância calço metade caneco dobradiça curva' name='wpsgdistanciacalcometadecanecocurva155' value='14.75' image='wpsgdistanciacalcometadecanecocurva155.png'/>
     <Attribute subcategory='Dobradiças Canto L 155°' title='Distância calço metade caneco dobradiça super curva' name='wpsgdistanciacalcometadecanecosupercurva155' value='24.5' image='wpsgdistanciacalcometadecanecosupercurva155.png'/>
@@ -1113,7 +1113,7 @@
     <Attribute subcategory='Dobradiças Portas Espessas' title='Habilitar acabamento para o caneco da dobradiça' name='wpsgcapaacabamentocanecodobradicaportaespessa' option='Sim;Não' value='Sim' image='wpsgcapaacabamentocanecodobradicaportaespessa.png'/>
     <Attribute subcategory='Dobradiças Portas Espessas' title='Habilitar acabamento para o braço da dobradiça' name='wpsgcapaacabamentobracodobradicaportaespessa' option='Sim;Não' value='Sim' image='wpsgcapaacabamentobracodobradicaportaespessa.png'/>
     <Attribute subcategory='Dobradiças Canto Reto' title='Distância até o centro do caneco dobradiça canto reto' name='wpsgdistanciacalcometadecanecocantoreto' value='21.5' image='wpsgdistanciacalcometadecanecocantoreto.png'/>
-    <Attribute subcategory='Dobradiças Canto Reto' title='Posição das marcações do calço dobradiça canto reto' name='wpsgdistanciacalcocantoreto' value='37' image='wpsgdistanciacalcocantoreto.png'/>
+    <Attribute subcategory='Dobradiças Canto Reto' title='Posição das marcações do calço dobradiça canto reto' name='wpsgdistanciacalcocantoreto' value='19.5' image='wpsgdistanciacalcocantoreto.png'/>
     <Attribute subcategory='Dobradiças Canto Reto' title='Distância entre marcações do caneco dobradiça canto reto' name='wpsgdistanciafuroscanecocantoreto' value='48' image='wpsgdistanciafuroscanecocantoreto.png'/>
     <Attribute subcategory='Dobradiças Canto Reto' title='Distância entre marcações e centro do caneco dobradiça canto reto' name='wpsgfurocanecomarcacaocantoreto' value='6' image='wpsgfurocanecomarcacaocantoreto.png'/>
   </Category>
