@@ -994,17 +994,17 @@
     <Attribute subcategory='Padrões Corrediça Oculta' title='Largura usinagem contra frente oculta' name='wpsgLarguraUsinagemContraFrenteOcultaGT3' value='70' image='wpsgLarguraUsinagemContraFrenteOcultaGT3.png'/>
     <Attribute subcategory='Padrões Corrediça Oculta' title='Largura usinagem traseira oculta' name='wpsgLarguraUsinagemTraseiraOcultaGT3' value='30' image='wpsgLarguraUsinagemTraseiraOcultaGT3.png'/>
     <!-- Furo lateral do modulo-->
-    <Attribute subcategory='Furação Lateral do Módulo' title='Primeiro furo corrediça oculta' name='wpsgPrimeiroFuroCorredicaOcultaGT3' value='39' image='wpsgPrimeiroFuroCorredicaOcultaGT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 250' name='wpsgSegundoFuroCorredicaOculta250GT3' value='130' image='wpsgSegundoFuroCorredicaOculta250GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 300' name='wpsgSegundoFuroCorredicaOculta300GT3' value='130' image='wpsgSegundoFuroCorredicaOculta300GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 350' name='wpsgSegundoFuroCorredicaOculta350GT3' value='226' image='wpsgSegundoFuroCorredicaOculta350GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 400' name='wpsgSegundoFuroCorredicaOculta400GT3' value='226' image='wpsgSegundoFuroCorredicaOculta400GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 450' name='wpsgSegundoFuroCorredicaOculta450GT3' value='226' image='wpsgSegundoFuroCorredicaOculta450GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 500' name='wpsgSegundoFuroCorredicaOculta500GT3' value='256' image='wpsgSegundoFuroCorredicaOculta500GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 550' name='wpsgSegundoFuroCorredicaOculta550GT3' value='226' image='wpsgSegundoFuroCorredicaOculta550GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 600' name='wpsgSegundoFuroCorredicaOculta600GT3' value='226' image='wpsgSegundoFuroCorredicaOculta600GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 650' name='wpsgSegundoFuroCorredicaOculta650GT3' value='226' image='wpsgSegundoFuroCorredicaOculta650GT3.png'/>
-    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 700' name='wpsgSegundoFuroCorredicaOculta700GT3' value='226' image='wpsgSegundoFuroCorredicaOculta700GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Primeiro furo corrediça oculta' name='wpsgPrimeiroFuroCorredicaOcultaGT3' value='37' image='wpsgPrimeiroFuroCorredicaOcultaGT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 250' name='wpsgSegundoFuroCorredicaOculta250GT3' value='128' image='wpsgSegundoFuroCorredicaOculta250GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 300' name='wpsgSegundoFuroCorredicaOculta300GT3' value='128' image='wpsgSegundoFuroCorredicaOculta300GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 350' name='wpsgSegundoFuroCorredicaOculta350GT3' value='224' image='wpsgSegundoFuroCorredicaOculta350GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 400' name='wpsgSegundoFuroCorredicaOculta400GT3' value='224' image='wpsgSegundoFuroCorredicaOculta400GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 450' name='wpsgSegundoFuroCorredicaOculta450GT3' value='224' image='wpsgSegundoFuroCorredicaOculta450GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 500' name='wpsgSegundoFuroCorredicaOculta500GT3' value='288' image='wpsgSegundoFuroCorredicaOculta500GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 550' name='wpsgSegundoFuroCorredicaOculta550GT3' value='288' image='wpsgSegundoFuroCorredicaOculta550GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 600' name='wpsgSegundoFuroCorredicaOculta600GT3' value='288' image='wpsgSegundoFuroCorredicaOculta600GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 650' name='wpsgSegundoFuroCorredicaOculta650GT3' value='288' image='wpsgSegundoFuroCorredicaOculta650GT3.png'/>
+    <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 700' name='wpsgSegundoFuroCorredicaOculta700GT3' value='288' image='wpsgSegundoFuroCorredicaOculta700GT3.png'/>
     <Attribute subcategory='Furação Lateral do Módulo' title='Segundo furo corrediça oculta 750' name='wpsgSegundoFuroCorredicaOculta750GT3' value='352' image='wpsgSegundoFuroCorredicaOculta750GT3.png'/>
   </Category>
   <Category name='Gavetas'>
